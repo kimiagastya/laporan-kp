@@ -1,0 +1,22 @@
+\begin{thebibliography}{}
+
+\bibitem[Clark, 2010]{latex:intro}
+Clark, J. (2010).
+\newblock Introduction to \latex.
+
+\bibitem[Heinz et~al., 2024]{latex:source_code_listings}
+Heinz, C., Moses, B., and Hoffmann, J. (2024).
+\newblock {\em The Listings Package}, 1.10c edition.
+
+\bibitem[Surahmad and Sebedu, 2020]{book:sample}
+Surahmad, A. and Sebedu, B.~P. (2020).
+\newblock {\em Buku Test}.
+\newblock Universitas Antah Berantah, Depak.
+
+\bibitem[{Universitas Indonesia}, 2017]{ui:pedoman_ta}
+{Universitas Indonesia} (2017).
+\newblock {\em Pedoman Teknis Penulisan Tugas Akhir Mahasiswa Universitas
+  Indonesia}.
+\newblock Depok, revisi edition.
+
+\end{thebibliography}
