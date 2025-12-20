@@ -1,22 +1,40 @@
 \begin{thebibliography}{}
 
-\bibitem[Clark, 2010]{latex:intro}
-Clark, J. (2010).
-\newblock Introduction to \latex.
+\bibitem[Asthana, 2021]{postman:blog}
+Asthana, A. (2021).
+\newblock How we built postman—the product and the company.
+\newblock
+  \url{https://blog.postman.com/how-we-built-postman-product-and-company/}.
+\newblock Diakses pada 31 Juli 2025.
 
-\bibitem[Heinz et~al., 2024]{latex:source_code_listings}
-Heinz, C., Moses, B., and Hoffmann, J. (2024).
-\newblock {\em The Listings Package}, 1.10c edition.
+\bibitem[Chacon and Straub, 2025]{git:progit}
+Chacon, S. and Straub, B. (2025).
+\newblock {\em Pro Git}.
+\newblock Apress, 2nd edition.
 
-\bibitem[Surahmad and Sebedu, 2020]{book:sample}
-Surahmad, A. and Sebedu, B.~P. (2020).
-\newblock {\em Buku Test}.
-\newblock Universitas Antah Berantah, Depak.
+\bibitem[Gonzalez, 2017]{figma:wired}
+Gonzalez, R. (2017).
+\newblock Figma wants designers to collaborate google-docs style.
+\newblock \url{https://www.wired.com/story/figma-updates/}.
+\newblock Diakses pada 31 Juli 2025.
 
-\bibitem[{Universitas Indonesia}, 2017]{ui:pedoman_ta}
-{Universitas Indonesia} (2017).
-\newblock {\em Pedoman Teknis Penulisan Tugas Akhir Mahasiswa Universitas
-  Indonesia}.
-\newblock Depok, revisi edition.
+\bibitem[{Google}, 2025a]{android:studio}
+{Google} (2025a).
+\newblock Download android studio \& app tools.
+\newblock \url{https://developer.android.com/studio}.
+\newblock Diakses pada 31 Juli 2025.
+
+\bibitem[{Google}, 2025b]{flutter:docs}
+{Google} (2025b).
+\newblock Flutter: Build apps for any screen.
+\newblock \url{https://flutter.dev/}.
+\newblock Diakses pada 31 Juli 2025.
+
+\bibitem[{Microsoft Azure}, 2025]{azure:mobile}
+{Microsoft Azure} (2025).
+\newblock What is mobile app development?
+\newblock
+  \url{https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-mobile-app-development}.
+\newblock Diakses pada 31 Juli 2025.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.5.25)  20 DEC 2025 15:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.5.25)  20 DEC 2025 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1240,13 +1240,12 @@ File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 34.
-
-No file thesis.aux.
+ (thesis.aux)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 34.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 34.
-(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+ (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -1367,10 +1366,10 @@ l.34 \begin{document}
 
  
 Here is how much of TeX's memory you used:
- 40888 strings out of 473899
- 772325 string characters out of 5726500
- 1318873 words of memory out of 5000000
- 63027 multiletter control sequences out of 15000+600000
+ 40889 strings out of 473899
+ 772479 string characters out of 5726500
+ 1318799 words of memory out of 5000000
+ 63025 multiletter control sequences out of 15000+600000
  559602 words of font info for 39 fonts, out of 8000000 for 9000
  1283 hyphenation exceptions out of 8191
  114i,0n,115p,18442b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s

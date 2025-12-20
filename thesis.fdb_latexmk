@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1766220158.50505 "c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex" "thesis.pdf" "thesis" 1766220161.67946 2
+["pdflatex"] 1766224883.24043 "c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex" "thesis.pdf" "thesis" 1766224886.76111 2
   "C:/Users/kimia/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748108251 11948197 c794bdea4d10d99e5c43b6691272e806 ""
   "C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr7t.tfm" 1136747054 2124 2601a75482e9426d33db523edf23570a ""
   "C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -206,12 +206,12 @@
   "_internals/hypeindonesia.tex" 1766189962 3099 52a556391c3989df5af269921130dd6a ""
   "_internals/proglangdef.sty" 1766189962 82108 0d81edea235e55eab92b6aabccb4549e ""
   "_internals/uithesis.sty" 1766189962 23849 1d739942e7050fdfe88db6b4fb1e942b ""
-  "c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex" 1766189962 5903 53b76daa0bc8d1e0d586a553bcdfdf07 ""
+  "c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex" 1766222241 5969 89fb5157eb13ee800e4925cd29148e28 ""
   "config/istilah.tex" 1766189962 651 edba96d811d7a65c4a6c9d20ac8c5ee4 ""
-  "config/settings.tex" 1766217555 5561 db0f7607396ac1f77c089610497e7ce1 ""
-  "thesis.aux" 1766220161 48 9cf1fe235cbf6c346b93ed4f6f5e10a3 "pdflatex"
-  "thesis.glo" 1766220161 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "thesis.tex" 1766189962 5903 53b76daa0bc8d1e0d586a553bcdfdf07 ""
+  "config/settings.tex" 1766222241 5589 20e80355c250826266e1bb68121ce9ec ""
+  "thesis.aux" 1766224886 48 9cf1fe235cbf6c346b93ed4f6f5e10a3 "pdflatex"
+  "thesis.glo" 1766224886 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "thesis.tex" 1766222241 5969 89fb5157eb13ee800e4925cd29148e28 ""
   (generated)
   "thesis.aux"
   "thesis.glo"

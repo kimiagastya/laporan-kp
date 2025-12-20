@@ -407,6 +407,9 @@ INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT .\thesis.aux
+INPUT .\thesis.aux
+INPUT thesis.aux
 OUTPUT thesis.aux
 INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
 INPUT C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
