@@ -5,7 +5,7 @@
 Bab ini akan menjelaskan isi dari pelaksanaan kerja praktik, mulai dari latar
 belakang pekerjaan, deskripsi pekerjaan, tinjauan pustaka, metodologi,
 teknologi yang digunakan, hasil pekerjaan, aspek non teknis, hingga analisis
-pelaksanaan kerja praktik.
+pelaksanaan kerja praktik. Paparan ini bertujuan untuk memberikan gambaran mendalam mengenai pengalaman profesional pelaksana dan dampak dari kontribusi yang diberikan selama masa kerja praktik berlangsung.
 
 
 
@@ -13,17 +13,11 @@ pelaksanaan kerja praktik.
 \section{Latar Belakang Pekerjaan}
 \label{sec:latarBelakangPekerjaan}
 %-----------------------------------------------------------------------------%
-PT TASPEN (Persero) memiliki aplikasi internal bernama Easy Mobile yang
-berfungsi untuk menunjang aktivitas karyawan sehari-hari. Aplikasi ini
-memungkinkan karyawan untuk melakukan berbagai pengajuan secara digital,
-seperti pengajuan cuti dan Surat Perintah Tugas (SPT). Dengan adanya aplikasi
-ini, proses administratif menjadi lebih efisien karena tidak lagi memerlukan
-dokumen fisik dan dapat dilakukan kapan saja melalui perangkat mobile.
+Tujuan utama dari pelaksanaan kerja praktik ini adalah untuk mengaplikasikan teori dan keterampilan yang telah dipelajari selama perkuliahan ke dalam konteks profesional. Dalam hal ini, pelaksana ditempatkan pada proyek pengembangan aplikasi internal bernama Easy Mobile di PT TASPEN (Persero), sebuah platform yang berfungsi untuk menunjang aktivitas administratif karyawan secara digital. Aplikasi ini dikembangkan untuk meningkatkan efisiensi proses bisnis perusahaan, khususnya dalam memfasilitasi pengajuan cuti dan Surat Perintah Tugas (SPT) agar dapat dilakukan kapan saja melalui perangkat \f{mobile} tanpa memerlukan dokumen fisik.
 
-Sebagai perusahaan yang terus berkembang, TASPEN membutuhkan pengembangan
-fitur-fitur baru pada aplikasi Easy Mobile untuk meningkatkan produktivitas
-karyawan. Oleh karena itu, pelaksana diberikan tugas untuk mengembangkan
-fitur Request SPT dan Request Cuti pada aplikasi Easy Mobile.
+Penempatan pelaksana pada posisi Mobile Developer Intern di Divisi Teknologi Informasi bertujuan untuk memberikan kesempatan dalam mengembangkan keterampilan teknis pengembangan aplikasi \f{cross-platform} menggunakan \f{framework} Flutter. Posisi ini dipilih karena pelaksana telah memiliki pemahaman dasar dan keterbiasaan dengan \f{tech stack} Flutter sehingga memungkinkan pelaksana untuk memberikan kontribusi yang efektif dalam tim pengembang serta memperdalam pemahaman mengenai siklus hidup pengembangan perangkat lunak di lingkungan perusahaan. Selain itu, peran ini memberikan wawasan bagi pelaksana mengenai implementasi \f{clean architecture} dalam skala proyek profesional.
+
+Proyek yang dikerjakan mencakup pengembangan fitur Request SPT dan Request Cuti yang memiliki kompleksitas tersendiri, baik dari sisi integrasi API maupun \f{user flow}. Pelaksana bertanggung jawab untuk mengimplementasikan desain antarmuka dari Figma ke dalam kode program, serta melakukan pengujian integrasi dengan bantuan alat seperti Postman dan Android Studio. Selama proses ini, pelaksana juga mengasah kemampuan nonteknis melalui kolaborasi mendalam dengan mentor dan tim backend dalam lingkungan kerja. Pengalaman ini diharapkan dapat memperkuat kesiapan pelaksana dalam menghadapi tantangan di dunia industri teknologi informasi di masa depan.
 
 
 
@@ -31,20 +25,45 @@ fitur Request SPT dan Request Cuti pada aplikasi Easy Mobile.
 \section{Deskripsi Pekerjaan}
 \label{sec:deskripsiPekerjaan}
 %-----------------------------------------------------------------------------%
-Selama pelaksanaan kerja praktik, pelaksana berperan sebagai Mobile Developer
-Intern dengan tanggung jawab utama mengembangkan fitur-fitur pada aplikasi
-Easy Mobile. Secara spesifik, pekerjaan yang dilakukan meliputi:
+Pada bagian ini akan dijelaskan mengenai ringkasan pekerjaan yang dilakukan
+pelaksana selama masa kerja praktik di PT TASPEN (Persero) sebagai Mobile
+Intern Developer dalam proyek aplikasi Easy Mobile pada periode Juni sampai
+Agustus 2025.
 
+\vspace{0.3cm}
+\noindent\textbf{Pembelajaran Teknologi:}
 \begin{enumerate}
-    \item Mengembangkan fitur Request SPT (Surat Perintah Tugas) yang
-    memungkinkan karyawan untuk mengajukan surat perintah tugas secara digital.
-    \item Mengembangkan fitur Request Cuti yang memungkinkan karyawan untuk
-    mengajukan cuti melalui aplikasi mobile.
-    \item Mengintegrasikan fitur-fitur tersebut dengan API \f{backend} yang
-    sudah ada.
-    \item Memastikan tampilan dan fungsionalitas fitur sesuai dengan desain
-    yang telah ditentukan di Figma.
+    \item Flutter: \f{Clean Architecture}, \f{Widgets}, \f{Dependency Management},
+    \f{Reusable UI Components}, \f{API calls}.
+    \item Figma: \f{High fidelity prototype}, \f{information architecture},
+    \f{user flow}, \f{scenario}.
+    \item Git dan GitLab: Digunakan untuk \f{version control}.
+    \item Postman: Digunakan untuk mempelajari \f{request} dan \f{response}
+    dari API \f{call}.
+    \item Android Studio: Digunakan untuk menguji aplikasi menggunakan Android
+    Emulator.
 \end{enumerate}
+
+\noindent\textbf{Kontribusi Teknis:}
+\begin{itemize}
+    \item Fitur \f{Request} SPT
+    
+    Fitur \f{Request} SPT adalah fitur yang digunakan untuk melakukan proses
+    permohonan hingga persetujuan Surat Perintah Tugas karyawan. Dalam fitur
+    ini, karyawan dapat mengajukan permohonan SPT melalui formulir, memantau
+    status persetujuan, dan menyimpan SPT yang terbit dalam berkas PDF.
+    Karyawan yang berhak melakukan \f{approval} dapat melihat detail dari SPT
+    yang diajukan karyawan dan dapat menyetujui/menolak SPT tersebut.
+    
+    \item Fitur \f{Request} Cuti
+    
+    Fitur \f{Request} Cuti adalah fitur yang digunakan untuk melakukan proses
+    permohonan hingga persetujuan cuti karyawan. Dalam fitur ini, karyawan
+    dapat mengajukan permohonan cuti melalui formulir, melihat kuota cuti yang
+    dimilikinya, memantau status persetujuan, dan menyimpan cuti yang terbit
+    dalam berkas PDF. Perbedaannya terletak pada \f{form validation} yang lebih
+    ketat karena tiap tipe cuti memiliki ketentuan yang berbeda.
+\end{itemize}
 
 
 
@@ -52,73 +71,79 @@ Easy Mobile. Secara spesifik, pekerjaan yang dilakukan meliputi:
 \section{Tinjauan Pustaka}
 \label{sec:tinjauanPustaka}
 %-----------------------------------------------------------------------------%
-Subbab ini akan menjelaskan teori-teori dan teknologi yang digunakan dalam
-pelaksanaan kerja praktik.
 
 %-----------------------------------------------------------------------------%
 \subsection{\f{Mobile Application Development}}
 \label{sec:mobileAppDev}
 %-----------------------------------------------------------------------------%
-\f{Mobile application development} adalah proses pembuatan aplikasi perangkat
-lunak yang berjalan pada perangkat mobile \cite{azure:mobile}. Proses ini
-melibatkan penulisan kode program, desain antarmuka pengguna, pengujian, dan
-deployment aplikasi ke toko aplikasi seperti Google Play Store atau Apple App
-Store. Pengembangan aplikasi mobile dapat dilakukan dengan berbagai pendekatan,
-seperti pengembangan native, hybrid, atau cross-platform.
+Pengembangan aplikasi seluler (\f{Mobile Application Development}) adalah
+serangkaian proses dalam mengembangkan perangkat lunak untuk perangkat mobile.
+Proses yang dilakukan terdiri dari mendesain tampilan dan arsitektur aplikasi,
+mengembangkan aplikasi, dan mengujinya kepada pengguna. Arsitektur dari aplikasi
+mobile biasanya terdiri dari 3 lapis (\f{layers}): \f{Presentation layer} yang
+berperan untuk menangani interaksi pengguna terhadap aplikasi, \f{business layer}
+untuk menangani proses bisnis aplikasi, dan \f{data layer} yang menangani semua
+fungsi terkait data, seperti menyimpan data secara lokal atau mengambil data
+dari API \citep{azure:mobile}.
 
 %-----------------------------------------------------------------------------%
 \subsection{Flutter}
 \label{sec:flutter}
 %-----------------------------------------------------------------------------%
-Flutter adalah \f{framework} \f{open-source} yang dikembangkan oleh Google untuk
-membangun aplikasi \f{cross-platform} dari satu \f{codebase} \cite{flutter:docs}.
-Dengan Flutter, pengembang dapat membuat aplikasi untuk Android, iOS, web, dan
-desktop dengan menggunakan bahasa pemrograman Dart. Flutter menggunakan konsep
-widget untuk membangun antarmuka pengguna, di mana setiap elemen visual adalah
-widget yang dapat dikustomisasi.
+Flutter adalah \f{user interface software development kit} (SDK) yang digunakan
+untuk mengembangkan aplikasi lintas platform. Flutter diciptakan oleh Google dan
+bersifat \f{open source}. Flutter mengandalkan bahasa pemrograman Dart. Flutter
+memungkinkan pengembang aplikasi untuk membangun, menguji, dan mendistribusikan
+aplikasi di beberapa platform dari satu basis kode yang terpadu \citep{flutter:docs}.
 
 %-----------------------------------------------------------------------------%
 \subsection{Figma}
 \label{sec:figma}
 %-----------------------------------------------------------------------------%
-Figma adalah alat desain berbasis web yang memungkinkan kolaborasi secara
-\f{real-time} antar desainer \cite{figma:wired}. Figma digunakan untuk membuat
-desain antarmuka pengguna (\f{User Interface}) dan prototipe interaktif. Dalam
-konteks pengembangan aplikasi, Figma menjadi referensi utama bagi pengembang
-untuk mengimplementasikan desain yang telah dibuat oleh tim desainer.
+Figma adalah aplikasi web yang digunakan untuk mendesain antarmuka. Figma
+memungkinkan penggunanya untuk membuat \f{clickable prototype} dari antarmuka
+yang dirancang dalam suatu \f{flow} dengan interaksi seperti \f{drag}, \f{click},
+atau \f{hover}. Figma mendukung proses kolaborasi, yang berarti pemilik dari
+suatu proyek dapat mengizinkan pengguna lain untuk bekerja dalam proyek yang
+sama \citep{figma:wired}.
 
 %-----------------------------------------------------------------------------%
 \subsection{Git}
 \label{sec:git}
 %-----------------------------------------------------------------------------%
-Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak
-perubahan pada kode sumber selama pengembangan perangkat lunak \cite{git:progit}.
-Dengan Git, pengembang dapat bekerja secara kolaboratif, membuat cabang
-(\f{branch}) untuk fitur baru, dan menggabungkan (\f{merge}) perubahan dari
-berbagai kontributor. GitLab digunakan sebagai platform untuk menyimpan
-repositori Git dalam pelaksanaan kerja praktik ini.
+Git adalah \f{distributed version control system} (DVCS) yang dirancang untuk
+melacak perubahan pada \f{source code} selama pengembangan perangkat lunak. Git
+memungkinkan beberapa pengembang untuk bekerja pada proyek yang sama secara
+bersamaan dengan mendukung alur kerja non-linear seperti \f{branching} dan
+\f{merging}. Git menyimpan riwayat lengkap perubahan secara lokal di setiap
+komputer pengembang, yang meningkatkan redundansi, memungkinkan pengembang untuk
+bekerja secara offline, dan memfasilitasi kolaborasi baik dalam lingkungan
+terpusat maupun terdesentralisasi \citep{git:progit}.
 
 %-----------------------------------------------------------------------------%
 \subsection{Postman}
 \label{sec:postman}
 %-----------------------------------------------------------------------------%
-Postman adalah platform untuk membangun dan menggunakan API (\f{Application
-Programming Interface}) \cite{postman:blog}. Postman memungkinkan pengembang
-untuk menguji endpoint API, melihat respons dari server, dan mendokumentasikan
-API. Dalam pelaksanaan kerja praktik ini, Postman digunakan untuk memahami
-struktur API yang disediakan oleh tim \f{backend} dan menguji integrasi
-antara aplikasi mobile dengan API.
+Postman adalah platform yang digunakan untuk mendesain, membuat, menguji, dan
+mendokumentasikan \f{application programming interface} (API). Postman
+memungkinkan pengembang aplikasi untuk menyusun dan mengirimkan \f{request}
+kepada API \f{endpoints} dari server dan melihat data yang dikembalikan dalam
+\f{response}. Bagi pengembang aplikasi bagian \f{front end}, Postman digunakan
+untuk memastikan bahwa API \f{back end} berfungsi dengan benar sebelum
+mengintegrasikannya dengan antarmuka yang sedang mereka buat \citep{postman:blog}.
 
 %-----------------------------------------------------------------------------%
 \subsection{Android Studio}
 \label{sec:androidStudio}
 %-----------------------------------------------------------------------------%
-Android Studio adalah \f{Integrated Development Environment} (IDE) resmi untuk
-pengembangan aplikasi Android \cite{android:studio}. Meskipun Flutter memiliki
-dukungan untuk berbagai IDE, Android Studio menyediakan fitur-fitur lengkap
-seperti emulator Android, \f{debugging tools}, dan integrasi dengan Flutter
-\f{plugin}. Android Studio digunakan sebagai IDE utama dalam pengembangan
-aplikasi Easy Mobile.
+Android Studio adalah \f{Integrated Development Environment} (IDE) oleh Google
+yang digunakan dalam pengembangan aplikasi untuk sistem operasi Android. Salah
+satu fitur yang tersedia di Android Studio adalah Android Emulator. Android
+Emulator memungkinkan pengembang aplikasi untuk menguji aplikasi yang sedang
+dikembangkan pada Android Virtual Device yang dapat mensimulasikan smartphone
+Android. Android Emulator dapat dikonfigurasi oleh pengembang untuk
+mensimulasikan status baterai, kekuatan jaringan, lokasi perangkat, dan status
+pada sensor lainnya \citep{android:studio}.
 
 
 
@@ -126,17 +151,33 @@ aplikasi Easy Mobile.
 \section{Metodologi}
 \label{sec:metodologi}
 %-----------------------------------------------------------------------------%
-Pengembangan fitur pada aplikasi Easy Mobile mengikuti metodologi Agile dengan
-pendekatan Scrum. Tim melakukan \f{sprint} dengan durasi dua minggu, di mana
-setiap \f{sprint} dimulai dengan \f{sprint planning} dan diakhiri dengan
-\f{sprint review} dan \f{retrospective}.
+Tahapan yang dilalui pelaksana ketika mengerjakan tugas-tugas di masa kerja
+praktik dimulai dari penjelasan mengenai tugas oleh para mentor, mulai dari
+\f{user flow} yang diinginkan, fungsionalitas yang harus ada, hingga
+\f{user requirements} yang harus dipenuhi. Setelah itu, pelaksana mendesain
+tampilan antarmuka dari fitur, yang terdiri dari halaman-halaman pada suatu
+\f{flow}, \f{layout} dari informasi yang ditampilkan di setiap halaman, serta
+memilih ikon dan palet warna. Selanjutnya, mentor akan memberikan Postman
+Collections yang berisi contoh dari \f{request} dan \f{response} dari setiap
+API \f{endpoints}. Pelaksana kemudian mencoba untuk menguji dan memahami sendiri
+terlebih dahulu mengenai cara kerja dari API yang diberikan dan mengomunikasikan
+kepada mentor jika terdapat hal yang ingin ditanyakan atau \f{error} pada
+\f{endpoint} yang diuji.
 
-Proses pengembangan fitur dimulai dengan analisis kebutuhan berdasarkan desain
-di Figma dan dokumentasi API. Setelah memahami kebutuhan, pelaksana melakukan
-implementasi kode dengan menerapkan \f{clean architecture} untuk memastikan
-kode yang terstruktur dan mudah di-\f{maintain}. Setelah implementasi selesai,
-dilakukan pengujian untuk memastikan fitur berjalan sesuai dengan yang
-diharapkan.
+Pelaksana kemudian diberikan akses ke dalam repositori GitLab dari aplikasi Easy
+Mobile. Setelah dilakukan \f{cloning} dari repositori, pelaksana mencoba untuk
+memahami struktur dari kode dan mencoba menjalankan aplikasi untuk pertama
+kalinya menggunakan Android Emulator. Ketika pelaksana sudah mendapatkan
+bayangan mengenai cara kerja fitur dari tampilan antarmuka yang sudah dibuat dan
+pemahaman terhadap struktur API \f{endpoints}, maka pelaksana bisa langsung
+mengimplementasikan tugas yang diberikan ke dalam kode.
+
+Ketika suatu fitur sudah selesai, pelaksana mendemonstrasikan \f{flow} di dalam
+fitur kepada para mentor. Pelaksana kemudian diberikan masukan jika terdapat
+fungsionalitas yang masih belum sesuai dengan ketentuan atau jika terdapat
+elemen tampilan yang masih kurang pas pada halaman fitur, misalnya pengaturan
+posisi dari suatu tombol, pilihan warna, dan sebagainya. Masukan yang diberikan
+oleh para mentor diimplementasikan oleh pelaksana untuk memperbaiki fitur.
 
 
 
@@ -144,17 +185,19 @@ diharapkan.
 \section{Teknologi}
 \label{sec:teknologi}
 %-----------------------------------------------------------------------------%
-Berikut adalah teknologi yang digunakan dalam pelaksanaan kerja praktik:
+Selama pelaksanaan kerja praktik, berikut adalah teknologi yang digunakan untuk
+menunjang pengembangan aplikasi:
 
-\begin{enumerate}
-    \item \bo{Flutter} - \f{Framework} untuk pengembangan aplikasi mobile
-    \f{cross-platform}.
-    \item \bo{Dart} - Bahasa pemrograman yang digunakan oleh Flutter.
-    \item \bo{Figma} - Alat desain untuk referensi tampilan aplikasi.
-    \item \bo{GitLab} - Platform untuk menyimpan dan mengelola kode sumber.
-    \item \bo{Postman} - Alat untuk menguji dan memahami API.
-    \item \bo{Android Studio} - IDE untuk pengembangan aplikasi.
-\end{enumerate}
+\begin{itemize}
+    \item Flutter: Digunakan sebagai \f{framework} utama pengembangan aplikasi
+    \item Figma: Digunakan untuk mendesain prototipe dari suatu fitur
+    \item Git: Digunakan sebagai \f{version control} dari aplikasi, yang
+    terhubung dengan repositori Gitlab
+    \item Postman: Digunakan untuk menguji dan mempelajari \f{request} dan
+    \f{response} dari setiap API \f{endpoints}.
+    \item Android Studio: Digunakan untuk menguji aplikasi menggunakan Android
+    Emulator.
+\end{itemize}
 
 
 
@@ -162,70 +205,120 @@ Berikut adalah teknologi yang digunakan dalam pelaksanaan kerja praktik:
 \section{Hasil Pekerjaan}
 \label{sec:hasilPekerjaan}
 %-----------------------------------------------------------------------------%
-Selama pelaksanaan kerja praktik, pelaksana berhasil mengembangkan dua fitur
-utama pada aplikasi Easy Mobile:
+Bagian ini akan menjelaskan hasil pekerjaan yang dilakukan oleh pelaksana selama
+pelaksanaan kerja praktik:
 
-\subsection{Fitur Request SPT}
-Fitur Request SPT memungkinkan karyawan untuk mengajukan Surat Perintah Tugas
-secara digital melalui aplikasi mobile. Fitur ini mencakup:
-\begin{itemize}
-    \item Form pengisian data SPT seperti tujuan, tanggal, dan keperluan tugas.
-    \item Validasi input untuk memastikan data yang diisi lengkap dan benar.
-    \item Integrasi dengan API untuk mengirim data ke server.
-    \item Tampilan status pengajuan SPT.
-\end{itemize}
+\begin{enumerate}
+    \item \bo{Fitur \f{Request} SPT}
+    
+    Fitur \f{Request} SPT adalah fitur yang digunakan untuk melakukan proses
+    permohonan hingga persetujuan Surat Perintah Tugas karyawan. Fitur ini
+    memungkinkan karyawan untuk mengisi formulir permohonan SPT, mengedit
+    formulir yang disimpan dalam \f{draft}, menyimpan/mengirimkan formulir
+    permohonan, melihat daftar SPT yang telah dibuat beserta statusnya (Draft,
+    Waiting, Approved, Rejected), dan mencetak dokumen PDF dari SPT yang sudah
+    disetujui. Terdapat juga fungsionalitas filter dan \f{sorting} saat melihat
+    list \f{request} SPT yang dibuat. Bagi karyawan yang berperan sebagai
+    \f{approver}, mereka dapat menyetujui atau menolak permohonan SPT yang
+    dikirim kepadanya dan memberikan komentar. Fitur ini sudah selesai
+    dikerjakan dan sudah melewati proses User Acceptance Testing.
+    
+    \begin{figure}[H]
+    	\centering
+        \includegraphics[width=\textwidth]{assets/pics/Slide1.PNG}
+    	\caption{Alur pengajuan SPT (Bagian 1)}
+    	\label{fig:fitur_spt1}
+    \end{figure}
 
-% TODO: Tambahkan gambar screenshot fitur Request SPT
-% \begin{figure}[htbp]
-% 	\centering
-%     \includegraphics[width=0.5\textwidth]{assets/pics/fitur_spt.png}
-% 	\caption{Tampilan Fitur Request SPT}
-% 	\label{fig:fitur_spt}
-% \end{figure}
+    \begin{figure}[H]
+    	\centering
+        \includegraphics[width=\textwidth]{assets/pics/Slide2.PNG}
+    	\caption{Alur pengajuan SPT (Bagian 2)}
+    	\label{fig:fitur_spt2}
+    \end{figure}
+    
+    \item \bo{Fitur \f{Request} Cuti}
+    
+    Fitur \f{Request} Cuti adalah fitur yang digunakan untuk melakukan proses
+    permohonan hingga persetujuan cuti karyawan. Terdapat beberapa jenis cuti
+    yang dapat diajukan oleh karyawan, tetapi pelaksana hanya fokus pada tipe
+    cuti tahunan. Cuti tahunan memiliki ketentuan sendiri, yaitu setiap karyawan
+    harus mengambil cuti tahunan sebanyak 5 hari berturut-turut. Jika tidak
+    dilakukan, maka karyawan akan mendapatkan sanksi. Di dalam fitur, pelaksana
+    menambahkan pengingat jika karyawan belum melaksanakan cuti tahunan. Untuk
+    memenuhi ketentuan tersebut, pelaksana menambahkan validasi formulir yang
+    akan menolak pengajuan cuti jika sisa kuota cuti setelah pengajuan kurang
+    dari 5 hari.
+    
+    Secara umum, fitur ini memungkinkan karyawan untuk melihat sisa kuota cuti,
+    mengisi formulir permohonan cuti, mengedit formulir yang disimpan dalam
+    \f{draft}, menyimpan/mengirimkan formulir permohonan, melihat daftar cuti
+    yang telah dibuat beserta statusnya (Draft, Waiting, Approved, Rejected),
+    dan mencetak dokumen PDF dari cuti yang sudah disetujui. Proses penyetujuan
+    cuti berbeda dengan fitur SPT karena karyawan bisa memilih hingga tiga
+    tingkatan persetujuan cuti, yang harus disetujui satu persatu dari
+    \f{approver} paling bawah hingga paling atas.
+    
+    \begin{figure}[H]
+    	\centering
+        \includegraphics[width=\textwidth]{assets/pics/Slide3.PNG}
+    	\caption{Alur pengajuan cuti (Bagian 1)}
+    	\label{fig:fitur_cuti1}
+    \end{figure}
 
-\subsection{Fitur Request Cuti}
-Fitur Request Cuti memungkinkan karyawan untuk mengajukan cuti melalui
-aplikasi mobile. Fitur ini mencakup:
-\begin{itemize}
-    \item Pemilihan jenis cuti (cuti tahunan, cuti sakit, dll.).
-    \item Pemilihan tanggal mulai dan selesai cuti.
-    \item Form pengisian alasan cuti.
-    \item Tampilan sisa jatah cuti karyawan.
-    \item Integrasi dengan API untuk mengirim pengajuan ke server.
-\end{itemize}
-
-% TODO: Tambahkan gambar screenshot fitur Request Cuti
-% \begin{figure}[htbp]
-% 	\centering
-%     \includegraphics[width=0.5\textwidth]{assets/pics/fitur_cuti.png}
-% 	\caption{Tampilan Fitur Request Cuti}
-% 	\label{fig:fitur_cuti}
-% \end{figure}
-
-
+    \begin{figure}[H]
+    	\centering
+        \includegraphics[width=\textwidth]{assets/pics/Slide4.PNG}
+    	\caption{Alur pengajuan cuti (Bagian 2)}
+    	\label{fig:fitur_cuti2}
+    \end{figure}
+    
+\end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Aspek Non Teknis}
 \label{sec:aspekNonTeknis}
 %-----------------------------------------------------------------------------%
-Selain keterampilan teknis, pelaksanaan kerja praktik ini juga melatih
-berbagai keterampilan non teknis yang penting dalam dunia kerja profesional:
+Tidak hanya keterampilan teknis, pelaksana juga mendapatkan keterampilan non
+teknis yang krusial dalam pelaksanaaan kerja praktik. Berikut contohnya:
 
-\begin{enumerate}
-    \item \bo{Komunikasi} - Pelaksana belajar berkomunikasi secara efektif
-    dengan mentor dan anggota tim lainnya untuk memahami kebutuhan dan
-    menyampaikan progress pekerjaan.
+\begin{itemize}
+    \item Kemampuan Beradaptasi dan Belajar dengan Cepat
     
-    \item \bo{Kerja Sama Tim} - Pelaksana bekerja dalam tim pengembang dan
-    belajar berkolaborasi dengan berbagai pihak seperti desainer dan tim
-    \f{backend}.
+    Lingkungan kerja yang dinamis dan beberapa \f{resource} yang terbatas
+    mengharuskan pelaksana untuk dengan cepat memahami alur kerja, teknologi,
+    serta kebijakan internal perusahaan. Hal ini melatih kemampuan pelaksana
+    dalam beradaptasi dan belajar mandiri.
     
-    \item \bo{Adaptasi} - Pelaksana belajar beradaptasi dengan lingkungan
-    kerja profesional dan budaya perusahaan.
+    \item Berkomunikasi secara efektif
     
-    \item \bo{Pengelolaan Waktu} - Pelaksana belajar mengatur waktu untuk
-    menyelesaikan tugas sesuai dengan \f{deadline} yang ditentukan.
-\end{enumerate}
+    Pelaksana secara aktif berkomunikasi
+    dengan mentor dan anggota tim untuk mengklarifikasi tugas, mengomunikasikan
+    kesulitan yang dihadapi, dan mendiskusikan alur fitur yang diharapkan.
+    Kemampuan ini sangat penting untuk memastikan pemahaman yang sama dan
+    kelancaran proses pengembangan.
+    
+    \item Inisiatif dan Proaktif
+    
+    Ketika menghadapi kendala dalam pengembangan
+    aplikasi, pelaksana tidak menunggu instruksi, melainkan mengambil inisiatif
+    untuk mencari solusi, seperti melakukan analisis mandiri atau bertanya
+    langsung kepada mentor.
+    
+    \item Kolaborasi Tim
+    
+    Pelaksana bekerja dalam lingkungan tim dan berinteraksi
+    dengan mentor serta anggota tim lainnya dalam proses pengembangan fitur.
+    Interaksi ini meningkatkan pemahaman pelaksana mengenai pentingnya kolaborasi
+    dan kontribusi dalam mencapai tujuan bersama.
+    
+    \item Manajemen Waktu dan Prioritas
+    
+    Dengan beberapa tugas yang harus
+    diselesaikan dalam jangka waktu tertentu, pelaksana belajar untuk mengatur
+    waktu secara efektif dan memprioritaskan pekerjaan untuk memastikan semua
+    \f{deadline} terpenuhi.
+\end{itemize}
 
 
 
@@ -233,79 +326,180 @@ berbagai keterampilan non teknis yang penting dalam dunia kerja profesional:
 \section{Analisis Pelaksanaan Kerja Praktik}
 \label{sec:analisisPelaksanaan}
 %-----------------------------------------------------------------------------%
-Subbab ini akan menjelaskan analisis terhadap pelaksanaan kerja praktik,
-termasuk kendala yang dihadapi dan cara menanganinya, penilaian terhadap
-tempat kerja praktik, serta relevansi dengan perkuliahan di Fasilkom UI.
+Bagian ini membahas evaluasi pengalaman kerja praktik di PT TASPEN (Persero). Di sini, dilakukan perbandingan antara kegiatan yang telah dilakukan dengan Kerangka Acuan Kerja Praktik (KAKP) yang telah disusun sebelumnya, serta menilai kesesuaian maupun perbedaan yang ditemukan. Selain itu, akan dipaparkan berbagai tantangan yang muncul selama kerja praktik dan solusi untuk mengatasinya. Selain itu, bagian ini juga memuat penilaian pribadi terhadap lingkungan kerja, pembimbing, dan proses kerja praktik secara keseluruhan. Terakhir, dibahas juga sejauh mana pengalaman ini relevan dengan materi perkuliahan yang telah dipelajari di Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI)
+
+%-----------------------------------------------------------------------------%
+\subsection{Ulasan Kesesuaian dan Perbedaan dengan KAKP}
+\label{sec:kesesuaianKAKP}
+%-----------------------------------------------------------------------------%
+
+\begin{table}[H]
+\centering
+\caption{Perbandingan rencana dan realisasi kerja praktik}
+\label{tab:kakp}
+\begin{tabular}{|r|p{7cm}|p{4cm}|}
+\hline
+\textbf{Minggu} & \textbf{Rencana Kerja} & \textbf{Realisasi Kerja} \\
+\hline
+1 -- 2 & 
+\begin{itemize}[leftmargin=*, nosep]
+    \item Mempelajari topik Flutter yang relevan.
+    \item Mempelajari arsitektur aplikasi secara keseluruhan.
+    \item Merancang kerangka dasar antarmuka pengguna untuk halaman status dan formulir pengajuan Surat Perintah Tugas (SPT).
+\end{itemize} & Sesuai dengan KAKP \\
+\hline
+3 -- 4 & 
+\begin{itemize}[leftmargin=*, nosep]
+    \item Mengimplementasikan fungsionalitas utama SPT.
+    \item Membangun halaman detail untuk menampilkan informasi SPT serta fungsionalitas lainnya.
+    \item Mengimplementasikan alur persetujuan SPT.
+\end{itemize} & Sesuai dengan KAKP \\
+\hline
+5 -- 6 & 
+\begin{itemize}[leftmargin=*, nosep]
+    \item Melakukan finalisasi dan pengujian fitur SPT.
+    \item Memulai pengembangan fitur Cuti.
+\end{itemize} & Sesuai dengan KAKP \\
+\hline
+7 -- 8 & 
+\begin{itemize}[leftmargin=*, nosep]
+    \item Melakukan pengembangan fungsionalitas fitur Cuti.
+    \item Mengimplementasikan alur persetujuan Cuti.
+\end{itemize} & Sesuai dengan KAKP \\
+\hline
+9 & 
+\begin{itemize}[leftmargin=*, nosep]
+    \item Melakukan perbaikan pada bug yang ada.
+    \item Melakukan finalisasi dan pengujian fitur Cuti.
+\end{itemize} & Sesuai dengan KAKP \\
+\hline
+\end{tabular}
+\end{table}
+
+Berdasarkan Tabel \ref{tab:kakp}, keseluruhan pelaksanaan kerja praktik sudah
+sesuai dengan yang tertera pada KAKP. Ketepatan pelaksanaan ini dapat diraih
+karena adanya laporan progress yang harus disampaikan ke mentor pada waktu yang
+telah ditentukan.
 
 %-----------------------------------------------------------------------------%
 \subsection{Ulasan Tentang Kendala dan Cara Menanganinya}
 \label{sec:kendala}
 %-----------------------------------------------------------------------------%
-Selama pelaksanaan kerja praktik, pelaksana menghadapi beberapa kendala:
+Subbab ini mengulas hambatan yang dihadapi selama kerja praktik, baik yang
+bersifat teknis maupun non-teknis, dan strategi yang digunakan untuk
+menyelesaikannya. Dalam pengalaman kerja praktik, tantangan adalah hal yang
+lumrah dan dapat menjadi kunci dalam proses belajar. Dengan memahami kendala
+tersebut, pelaksana bisa mendapatkan gambaran yang lebih utuh tentang seberapa
+siap individu menghadapi berbagai situasi di dunia profesional.
 
-\begin{enumerate}
-    \item \bo{Keterbatasan Dokumentasi API} \\
-    Dokumentasi API yang tersedia tidak lengkap sehingga pelaksana kesulitan
-    memahami struktur dan parameter yang diperlukan. Kendala ini diatasi
-    dengan melakukan komunikasi intensif dengan mentor dan tim \f{backend},
-    serta memanfaatkan Postman collection yang sudah ada untuk memahami
-    struktur API.
-    
-    \item \bo{Kerumitan User Flow} \\
-    Beberapa fitur memiliki alur pengguna (\f{user flow}) yang kompleks
-    sehingga memerlukan pemahaman mendalam terhadap proses bisnis. Kendala
-    ini diatasi dengan melakukan analisis mandiri terhadap desain di Figma
-    dan berdiskusi dengan mentor untuk mendapatkan klarifikasi.
-    
-    \item \bo{Adopsi Clean Architecture} \\
-    Proyek menggunakan \f{clean architecture} yang memerlukan pemahaman
-    struktur kode yang berbeda dari yang biasa dipelajari di perkuliahan.
-    Kendala ini diatasi dengan mempelajari kode yang sudah ada dan bertanya
-    kepada mentor mengenai praktik terbaik yang digunakan.
-\end{enumerate}
+%-----------------------------------------------------------------------------%
+\subsubsection{Ketiadaan dokumentasi API yang lengkap}
+\label{sec:kendalaAPI}
+%-----------------------------------------------------------------------------%
+Ketiadaan dokumentasi API yang resmi mengharuskan pelaksana untuk beradaptasi
+dengan metodologi kerja yang unik. Sebagai ganti dari dokumentasi, tim pengembang
+hanya menyediakan collection Postman yang berisi contoh \f{request} dan
+\f{response}. Untuk mengatasi keterbatasan ini, pelaksana mengambil inisiatif
+untuk berkomunikasi secara proaktif dengan mentor. Setiap kali ditemukan
+ketidakjelasan mengenai struktur \f{request} atau \f{response} dari \f{endpoint}
+tertentu, pelaksana segera menghubungi mentor untuk meminta klarifikasi dan
+panduan. Pendekatan ini tidak hanya memungkinkan pelaksana untuk menyelesaikan
+tugas dengan akurat, tetapi juga memperkuat kemampuan pelaksana dalam komunikasi
+profesional dan kolaborasi tim. Pelaksana belajar untuk tidak hanya mengandalkan
+\f{resource} yang tersedia, tetapi juga untuk mengambil inisiatif dalam mencari
+solusi.
+
+%-----------------------------------------------------------------------------%
+\subsubsection{Kesulitan Dalam Memahami \f{User Flow} dari Fitur}
+\label{sec:kendalaUserFlow}
+%-----------------------------------------------------------------------------%
+Selama proses pengembangan, pelaksana mengidentifikasi adanya tantangan dalam
+memahami \f{user flow} yang cukup kompleks dan kurang intuitif pada beberapa
+fitur. Sebagai contoh, proses pengajuan dan persetujuan SPT (Surat Perintah
+Tugas) memiliki serangkaian langkah yang tidak sepenuhnya jelas. Demikian pula,
+pada fitur cuti, terdapat banyak jenis cuti yang memiliki ketentuan berbeda-beda,
+seperti cuti tahunan, cuti wajib, dan cuti melahirkan, yang masing-masing harus
+ditangani secara spesifik dalam aplikasi.
+
+Untuk mengatasi kebingungan alur dan kerumitan aturan ini, pelaksana mengambil
+inisiatif untuk melakukan analisis mandiri terhadap \f{flow} yang sudah ada pada
+aplikasi web dan berdiskusi dengan mentor. Pendekatan ini tidak hanya membantu
+pelaksana dalam memahami \f{business logic} di balik setiap fitur, tetapi juga
+memungkinkan pelaksana untuk merancang struktur kode yang lebih rapi dan modular.
+Pengalaman ini mengasah kemampuan pelaksana dalam menganalisis masalah, memahami
+logika bisnis yang kompleks, dan mengubah alur kerja yang membingungkan menjadi
+implementasi teknis yang jelas dan efisien.
 
 %-----------------------------------------------------------------------------%
 \subsection{Penilaian Individu Terhadap Tempat KP}
 \label{sec:penilaianTempatKp}
 %-----------------------------------------------------------------------------%
-PT TASPEN (Persero) merupakan tempat kerja praktik yang baik untuk
-mengembangkan keterampilan di bidang \f{mobile development}. Beberapa hal
-positif yang dapat diambil dari tempat kerja praktik ini:
+Berikut adalah penilaian pelaksana terhadap elemen-elemen dalam tempat
+pelaksanaan kerja praktik, mulai dari karyawan, proyek, dan dukungan teknis
+yang disediakan:
 
 \begin{enumerate}
-    \item Mentor yang responsif dan bersedia membantu ketika pelaksana
-    menghadapi kesulitan.
-    \item Tim yang kolaboratif dan mendukung proses pembelajaran pelaksana.
-    \item Penggunaan teknologi modern seperti Flutter dan \f{clean architecture}.
-    \item Lingkungan kerja yang kondusif untuk belajar dan berkembang.
+    \item Karyawan dan Tim Mentor
+    
+    Pelaksana merasa bahwa seluruh karyawan pada Divisi Teknologi Informasi
+    bersikap ramah dan penuh perhatian. Mentor juga menunjukkan sifat yang sama.
+    Mereka selalu bersedia untuk membantu pelaksana ketika terdapat kesulitan.
+    Mentor juga aktif memberikan bantuan teknis, terutama pada \f{backend}
+    supaya aplikasi yang dibuat dapat memenuhi \f{requirements} yang diminta
+    di awal.
+    
+    \item Proyek yang Dikerjakan
+    
+    Pengembangan aplikasi Easy Mobile dapat membantu karyawan dalam memenuhi
+    urusan administratifnya. Selama ini, karyawan menggunakan laman web Easy
+    Taspen untuk menyelesaikan urusan tersebut. Pelaksana dapat menilai bahwa
+    laman web tersebut kurang responsif saat diakses melalui \f{smartphone}
+    sehingga menyulitkan karyawan yang ingin mengurus administrasi tanpa
+    menggunakan komputer. Ke depannya, pelaksana berharap aplikasi ini dapat
+    dikembangkan lebih lanjut untuk mendukung fungsionalitas administratif
+    selain pengajuan SPT dan cuti.
+    
+    \item Dukungan Teknis
+    
+    Ketiadaan dokumentasi API dan pemeliharaan layanan yang terjadi membuat
+    waktu pengembangan fitur menjadi lama. Hal ini mengharuskan pelaksana untuk
+    proaktif dan berkomunikasi intensif dengan mentor untuk mendapatkan
+    klarifikasi dan panduan yang dibutuhkan. Meskipun demikian, pelaksana merasa
+    bahwa keterbatasan ini justru melatihnya untuk mengambil inisiatif dalam
+    mencari solusi, bukan hanya bergantung pada sumber daya yang ada.
 \end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \subsection{Relevansi dengan Perkuliahan di Fasilkom UI}
 \label{sec:relevansiPerkuliahan}
 %-----------------------------------------------------------------------------%
-Pelaksanaan kerja praktik ini memiliki relevansi dengan beberapa mata kuliah
-yang telah dipelajari di Fasilkom UI:
+Dalam pengerjaan tugas selama masa Kerja Praktik, terdapat topik pekerjaan yang
+beririsan dengan pembelajaran di Fasilkom UI. Berikut adalah mata kuliah yang
+paling relevan:
 
 \begin{enumerate}
-    \item \bo{Dasar-Dasar Pemrograman (DDP)} - Konsep dasar pemrograman yang
-    dipelajari menjadi fondasi dalam menulis kode aplikasi.
+    \item Pemrograman Berbasis Platform
     
-    \item \bo{Pemrograman Berbasis Platform (PBP)} - Mata kuliah ini
-    memberikan dasar pengembangan aplikasi mobile yang langsung diterapkan
-    dalam kerja praktik.
+    Pelaksana melanjutkan pengembangan aplikasi pada platform \f{mobile}
+    menggunakan \f{framework} Flutter. Hal serupa dipelajari oleh pelaksana
+    sewaktu mengikuti perkuliahan Pemrograman Berbasis Platform (PBP).
+    Perbedaannya terletak pada struktur proyek Flutter yang lebih menekankan
+    \f{clean architecture} dibandingkan sewaktu pembelajaran Flutter di mata
+    kuliah PBP.
     
-    \item \bo{Basis Data} - Pemahaman tentang struktur data dan query
-    membantu dalam memahami struktur API dan respons dari server.
+    \item Sistem Interaksi
     
-    \item \bo{Rekayasa Perangkat Lunak (RPL)} - Metodologi pengembangan
-    perangkat lunak seperti Agile dan Scrum yang dipelajari di mata kuliah
-    ini diterapkan dalam pelaksanaan kerja praktik.
+    Selama mengerjakan tugas, pelaksana dituntut untuk bisa menghasilkan fitur
+    yang memiliki pengalaman pengguna yang baik. Pelaksana harus memikirkan
+    bagaimana menyusun alur yang intuitif pada fitur. Selain itu, pelaksana juga
+    harus mampu mengatur bagaimana informasi ditampilkan di suatu halaman agar
+    memudahkan pengguna saat ingin mencari suatu informasi. Pekerjaan tersebut
+    beririsan dengan pembelajaran di mata kuliah Sistem Interaksi.
+    
+    \item Pemrograman Lanjut
+    
+    Pekerjaan yang dilakukan menuntut penerapan prinsip \f{Object-Oriented
+    Analysis \& Design} dalam membangun struktur kode yang rapi, serta kemampuan
+    dalam melakukan pertukaran data dengan API melalui layanan web untuk
+    memastikan aplikasi dapat berinteraksi dengan server dengan baik.
 \end{enumerate}
-
-Dengan dukungan tim dan mentor yang baik, pelaksana dapat menyelesaikan
-tugas-tugas yang diberikan dan mendapatkan pemahaman yang lebih dalam
-mengenai proses pengembangan aplikasi. Secara keseluruhan, pelaksanaan
-kerja praktik ini memberikan wawasan yang luas tentang pengembangan
-perangkat lunak dan mampu mempersiapkan pelaksana untuk menghadapi
-tantangan di dunia kerja yang sesungguhnya.

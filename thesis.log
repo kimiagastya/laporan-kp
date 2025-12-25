@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.5.25)  20 DEC 2025 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.5.25)  26 DEC 2025 03:34
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex"
-(c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex
+**./thesis.tex
+(thesis.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -24,10 +23,11 @@ File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (_internals/uithesis.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+)
+(_internals/uithesis.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
-
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
@@ -98,46 +98,70 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip83
 \cfttabindent=\skip84
 \cfttabnumwidth=\skip85
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count277
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count278
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen156
 \Hy@linkcounter=\count279
@@ -164,16 +188,21 @@ Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
 \c@Hy@tempcnt=\count282
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen157
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count283
 \Field@Width=\dimen158
@@ -185,7 +214,8 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -194,39 +224,53 @@ package with kernel methods
 \c@Hfootnote=\count286
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
 \Fld@listcount=\count287
 \c@bookmark@seq@number=\count288
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
 )
 \Hy@SectionHShift=\skip86
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip87
 \multirow@cntb=\count289
 \multirow@dima=\skip88
 \bigstrutjot=\dimen160
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen161
@@ -242,7 +286,7 @@ Package: wrapfig 2003/01/31  v 3.6
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count291
@@ -257,9 +301,12 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen171
 \Gm@layoutvoffset=\dimen172
 \Gm@dimlist=\toks21
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen173
 \captionmargin=\dimen174
@@ -275,21 +322,25 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count295
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/05/23 v2.17q AMS math features
 \@mathmargin=\skip89
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen181
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen182
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count296
@@ -339,32 +390,45 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
-Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
- `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
+pport for TeXGyreTermesX
+
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-08-30 L3 programming layer (loader) 
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count308
 \l__pdf_internal_box=\box56
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -376,7 +440,9 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks27
 \XKV@tempa@toks=\toks28
 )
@@ -384,24 +450,31 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count310
 \xs_countb=\count311
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \ntx@tmpcnta=\count312
 \ntx@cnt=\count313
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes-v1.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes-v1.st
+y
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -429,13 +502,17 @@ LaTeX Info: Redefining \textulc on input line 49.
 \tx@dimBB=\dimen258
 \tx@dimC=\dimen259
 LaTeX Info: Redefining \oldstylenums on input line 902.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
- `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+
+`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count314
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \tx@Isdigit=\count315
 \tx@IsAlNum=\count316
 \tx@tA=\toks29
@@ -510,17 +587,20 @@ Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 664.
+(Font)              `largesymbols' in the math version `normal' on input line 6
+64.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 664.
+(Font)              `largesymbols' in the math version `bold' on input line 664
+.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
 \tx@sbptoks=\toks31
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
@@ -547,12 +627,14 @@ Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks32
 \AP@partial=\box57
 \AP@footins=\box58
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
 \LTleft=\skip92
 \LTright=\skip93
@@ -570,32 +652,62 @@ Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
 \c@LT@tables=\count320
 \c@LT@chunks=\count321
 \LT@p@ftn=\toks33
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tikzpagenodes\tikzpagenodes.sty
-Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the page
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tikzpagenodes\tikzpagen
+odes.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the 
+page
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
 \pgfutil@everybye=\toks34
 \pgfutil@tempdima=\dimen261
 \pgfutil@tempdimb=\dimen262
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
 \pgfutil@abb=\box64
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
 \pgfkeys@pathtoks=\toks35
 \pgfkeys@temptoks=\toks36
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks37
 ))
 \pgf@x=\dimen263
@@ -618,32 +730,76 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks39
 \t@pgf@tokc=\toks40
 \pgf@sys@id@count=\count326
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+)))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count327
 \pgfsyssoftpath@bigbuffer@items=\count328
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
 \pgfmath@dimen=\dimen273
 \pgfmath@count=\count329
 \pgfmath@box=\box65
 \pgfmath@toks=\toks41
 \pgfmath@stack@operand=\toks42
 \pgfmath@stack@operation=\toks43
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
 \c@pgfmathroundto@lastzeros=\count330
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen274
 \pgf@picmaxx=\dimen275
@@ -659,75 +815,130 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen285
 \pgf@zx=\dimen286
 \pgf@zy=\dimen287
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen288
 \pgf@path@lasty=\dimen289
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen290
 \pgf@shorten@start@additional=\dimen291
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box66
 \pgf@hbox=\box67
 \pgf@layerbox@main=\box68
 \pgf@picture@serial@count=\count331
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen292
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen293
 \pgf@pt@y=\dimen294
 \pgf@pt@temp=\dimen295
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen296
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen297
 \pgf@sys@shading@range@num=\count332
 \pgf@shadingcount=\count333
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box69
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+)))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box70
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen298
 \pgf@nodesepend=\dimen299
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen300
 \pgffor@skip=\dimen301
 \pgffor@stack=\toks44
 \pgffor@toks=\toks45
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count334
 \pgfplotmarksize=\dimen302
@@ -748,23 +959,33 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count336
 \tikznumberofcurrentchild=\count337
 \tikz@fig@count=\count338
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count339
 \pgfmatrixcurrentcolumn=\count340
 \pgf@matrix@numberofcolumns=\count341
 )
 \tikz@expandcount=\count342
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+)))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count343
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarychains.code.tex
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarychains.code.tex
 File: tikzlibrarychains.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pslatex\pslatex.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pslatex\pslatex.sty
 Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -787,11 +1008,13 @@ LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  LMS/ntxsy/b/n --> OMS/pzccm/m/n on input line 68.
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 69.
 LaTeX Font Info:    Encoding `LMX' has changed to `OMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 69.
+(Font)              `largesymbols' in the math version `normal' on input line 6
+9.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  LMX/ntxexx/m/n --> OMX/psycm/m/n on input line 69.
 LaTeX Font Info:    Encoding `LMX' has changed to `OMX' for symbol font
 (Font)              `largesymbols' in the math version `bold' on input line 69.
+
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  LMX/ntxexx/b/n --> OMX/psycm/m/n on input line 69.
 \symbold=\mathgroup14
@@ -802,8 +1025,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/minntx/m/it --> OT1/ptm/m/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/minntx/b/it --> OT1/ptm/m/it on input line 76.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip96
 \f@nch@offset@elh=\skip97
 \f@nch@offset@erh=\skip98
@@ -819,9 +1044,11 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip108
 \f@nch@widthR=\skip109
 \@temptokenb=\toks46
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2025/03/12 v0.6f Insert pages of external PDF documents (AM)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count344
 \calc@Bcount=\count345
@@ -833,7 +1060,8 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count346
 \calc@Cskip=\skip112
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen313
 \ESO@tempdimb=\dimen314
@@ -841,7 +1069,8 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \AM@pagewidth=\dimen315
 \AM@pageheight=\dimen316
 \AM@fboxrule=\dimen317
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2025/03/12 v0.6f Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count347
@@ -867,7 +1096,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \pxx=\skip119
 ) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen318
 \ar@mcellbox=\box77
@@ -880,14 +1109,16 @@ Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \everycr=\toks51
 \minrowclearance=\skip122
 \rownum=\count350
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count351
 \float@exts=\toks52
 \float@box=\box79
 \@float@everytoks=\toks53
 \@floatcapt=\box80
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
 \c@tracingmulticols=\count352
 \mult@box=\box81
@@ -956,7 +1187,8 @@ Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
 \mult@nat@firstbox=\box125
 \colbreak@box=\box126
 \mc@col@check@num=\count361
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count362
 \lst@gtempboxa=\box127
 \lst@token=\toks54
@@ -969,116 +1201,136 @@ Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
 \lst@newlines=\count366
 \lst@lineno=\count367
 \lst@maxwidth=\dimen332
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
 \c@lstnumber=\count368
 \lst@skipnumbers=\count369
 \lst@framebox=\box128
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2024/05/25 1.10b listings configuration
 ))
 Package: listings 2024/05/25 1.10b (Carsten Heinz)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
+ty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count370
 \cp@tempcnt=\count371
 LaTeX Info: Redefining \checkoddpage on input line 59.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
-Package: everyshi 2020/11/18 v4.00 EveryShipout Package
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count372
-\bibleftmargin=\skip125
-\bibindent=\skip126
-\bibparsep=\skip127
-\bibitemsep=\skip128
-\biblabelsep=\skip129
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip130
-\bibsep=\skip131
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count373
 )
-LaTeX Info: Redefining \BBA on input line 149.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
+Package: everyshi 2020/11/18 v4.00 EveryShipout Package
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip125
+\bibsep=\skip126
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count372
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
 Package: glossaries 2025/05/14 v4.7 (NLCT)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
 \@glsmfirst=\toks55
 \@glsmrest=\toks56
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
 Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def
 File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks57
-\@dtl@tmpcount=\count374
-\dtl@tmplength=\skip132
+\@dtl@tmpcount=\count373
+\dtl@tmplength=\skip127
 \l__datatool_measure_box=\box129
-\dtl@sortresult=\count375
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
+\dtl@sortresult=\count374
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf
 File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
-\@dtl@datatype=\count376
-\l__datatool_tmpa_int=\count377
-\l__datatool_tmpb_int=\count378
-\l__datatool_tmpc_int=\count379
-\l__datatool_tmpd_int=\count380
-\l__datatool_count_int=\count381
-\l__datatool_tmp_datatype_int=\count382
+\@dtl@datatype=\count375
+\l__datatool_tmpa_int=\count376
+\l__datatool_tmpb_int=\count377
+\l__datatool_tmpc_int=\count378
+\l__datatool_tmpd_int=\count379
+\l__datatool_count_int=\count380
+\l__datatool_tmp_datatype_int=\count381
 \l__datatool_tmpa_dim=\dimen333
 \l__datatool_tmpb_dim=\dimen334
-\c_datatool_unknown_int=\count383
-\l__datatool_year_int=\count384
-\l__datatool_month_int=\count385
-\l__datatool_day_int=\count386
-\l__datatool_hour_int=\count387
-\l__datatool_minute_int=\count388
-\l__datatool_second_int=\count389
-\l__datatool_tzhour_int=\count390
-\l__datatool_tzminute_int=\count391
-\l__datatool_julian_int=\count392
-\l__datatool_local_julian_int=\count393
-\l__datatool_prefix_int=\count394
-\l__datatool_suffix_int=\count395
-\@dtl@foreach@level=\count396
-\dtl@codeA=\count397
-\dtl@codeB=\count398
+\c_datatool_unknown_int=\count382
+\l__datatool_year_int=\count383
+\l__datatool_month_int=\count384
+\l__datatool_day_int=\count385
+\l__datatool_hour_int=\count386
+\l__datatool_minute_int=\count387
+\l__datatool_second_int=\count388
+\l__datatool_tzhour_int=\count389
+\l__datatool_tzminute_int=\count390
+\l__datatool_julian_int=\count391
+\l__datatool_local_julian_int=\count392
+\l__datatool_prefix_int=\count393
+\l__datatool_suffix_int=\count394
+\@dtl@foreach@level=\count395
+\dtl@codeA=\count396
+\dtl@codeB=\count397
 )
-\gls@level=\count399
+\gls@level=\count398
 \@gls@tmpb=\toks58
-\gls@tmplen=\skip133
+\gls@tmplen=\skip128
 \l__glossaries_tmpa_dim=\dimen335
 \l__glossaries_tmpb_dim=\dimen336
 \glskeylisttok=\toks59
 \glslabeltok=\toks60
 \glsshorttok=\toks61
 \glslongtok=\toks62
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
 Package: glossary-hypernav 2025/05/14 v4.7 (NLCT)
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
 Package: glossary-list 2025/05/14 v4.7 (NLCT)
-\glslistdottedwidth=\skip134
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+\glslistdottedwidth=\skip129
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
 Package: glossary-long 2025/05/14 v4.7 (NLCT)
-\glsdescwidth=\skip135
-\glspagelistwidth=\skip136
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+\glsdescwidth=\skip130
+\glspagelistwidth=\skip131
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
 Package: glossary-super 2025/05/14 v4.7 (NLCT)
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
-\c@tracingst=\count400
+\c@tracingst=\count399
 \ST@wd=\dimen337
-\ST@rightskip=\skip137
-\ST@leftskip=\skip138
-\ST@parfillskip=\skip139
+\ST@rightskip=\skip132
+\ST@leftskip=\skip133
+\ST@parfillskip=\skip134
 \ST@pageleft=\dimen338
 \ST@headht=\dimen339
 \ST@tailht=\dimen340
@@ -1089,9 +1341,11 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \ST@toadd=\dimen345
 \ST@dimen=\dimen346
 \ST@pbox=\box130
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
 Package: glossary-tree 2025/05/14 v4.7 (NLCT)
-\l__glossaries_tree_max_known_level_int=\count401
+\l__glossaries_tree_max_known_level_int=\count400
 \l__glossaries_tree_offset_dim=\dimen347
 \l__glossaries_tree_namewidth_dim=\dimen348
 \l__glossaries_tree_symbolwidth_dim=\dimen349
@@ -1101,56 +1355,67 @@ Package: glossary-tree 2025/05/14 v4.7 (NLCT)
 \l__glossaries_tree_symbolwidth_padding_dim=\dimen353
 \l__glossaries_tree_namesymbolwidth_dim=\dimen354
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen355
-\l__glossaries_tree_level_int=\count402
-\glstreeindent=\skip140
-)) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossaries-extra.sty
+\l__glossaries_tree_level_int=\count401
+\glstreeindent=\skip135
+))
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossa
+ries-extra.sty
 Package: glossaries-extra 2025/05/14 v1.7 (NLCT)
-\@glsxtr@leveloffset=\count403
-\glsxtrresourcecount=\count404
-\@glsxtrnewgls@inner=\count405
+\@glsxtr@leveloffset=\count402
+\glsxtrresourcecount=\count403
+\@glsxtrnewgls@inner=\count404
 \glsshortpltok=\toks63
 \glslongpltok=\toks64
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossaries-extra-abbrstyles.def
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\glossa
+ries-extra-abbrstyles.def
 File: glossaries-extra-abbrstyles.def 2025/05/14 v1.7 (NLCT)
 )
-\mglselementindex=\count406
+\mglselementindex=\count405
 )
 
 Package hyperref Warning: Option `a4paper' is no longer used.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 194.
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 194.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 194.
-\c@chapterpagecount=\count407
-\c@equ=\count408
-\cftbeforeequskip=\skip141
-\cftequindent=\skip142
-\cftequnumwidth=\skip143
-\c@loedepth=\count409
-\cftbeforeloetitleskip=\skip144
-\cftafterloetitleskip=\skip145
-\c@appendix=\count410
-\cftbeforeappendixskip=\skip146
-\cftappendixindent=\skip147
-\cftappendixnumwidth=\skip148
-\c@loxdepth=\count411
-\cftbeforeloxtitleskip=\skip149
-\cftafterloxtitleskip=\skip150
-(_internals/proglangdef.sty (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+Package hyperref Info: Option `colorlinks' set `false' on input line 192.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 192.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 192.
+
+\c@chapterpagecount=\count406
+\c@equ=\count407
+\cftbeforeequskip=\skip136
+\cftequindent=\skip137
+\cftequnumwidth=\skip138
+\c@loedepth=\count408
+\cftbeforeloetitleskip=\skip139
+\cftafterloetitleskip=\skip140
+\c@appendix=\count409
+\cftbeforeappendixskip=\skip141
+\cftappendixindent=\skip142
+\cftappendixnumwidth=\skip143
+\c@loxdepth=\count410
+\cftbeforeloxtitleskip=\skip144
+\cftafterloxtitleskip=\skip145
+(_internals/proglangdef.sty
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
 Package: CJKutf8 2021/10/16 4.8.5
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks65
 \inpenc@posthook=\toks66
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
 Package: CJK 2021/10/16 4.8.5
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
 Package: MULEenc 2021/10/16 4.8.5
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
 File: CJK.enc 2021/10/16 4.8.5
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
@@ -1218,15 +1483,19 @@ Now handling font encoding C62 ...
 ... no UTF-8 mapping file for font encoding C62
 )
 \CJK@indent=\box131
-) (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-))) (config/settings.tex)
+)))
+(config/settings.tex)
 
-LaTeX Warning: \include should only be used after \begin{document} on input line 29.
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 29.
 
 (_internals/hypeindonesia.tex) (config/istilah.tex
 
-Package glossaries Warning: Ignoring attempt to run command `makeindex -s thesis.ist -t thesis.glg -o thesis.gls thesis.glo' on input line 18.
+Package glossaries Warning: Ignoring attempt to run command `makeindex -s thesi
+s.ist -t thesis.glg -o thesis.gls thesis.glo' on input line 18.
 
 \glswrite=\write4
 \glo@main@file=\write5
@@ -1234,24 +1503,34 @@ Package glossaries Warning: Ignoring attempt to run command `makeindex -s thesis
 
 Package glossaries Info: Writing glossary file thesis.glo on input line 18.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 34.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 34.
  (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 34.
- (thesis.aux)
+
+(thesis.aux (_internals/sampul.aux) (_internals/judul_dalam.aux)
+(src/00-frontMatter/pengesahanKP.aux) (src/00-frontMatter/abstrak.aux)
+(src/00-frontMatter/abstract.aux) (src/01-body/bab1.aux) (src/01-body/bab2.aux)
+(src/01-body/bab3.aux) (_internals/pustaka.aux) (_internals/markLampiran.aux)
+(src/99-backMatter/lampiran.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 34.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 34.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 34.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line 34.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
+ 34.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -1264,8 +1543,10 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 34.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+34.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -1274,14 +1555,18 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 34.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 34.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 34.
- (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 34.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -1350,27 +1635,1485 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 Package hyperref Info: Link coloring OFF on input line 34.
+
+(thesis.out) (thesis.out)
 \@outlinefile=\write6
 \openout6 = `thesis.out'.
 
 
-c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex:34: I can't write on file `thesis.pdf'.
-(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
-Please type another file name for output
-c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex:34: Emergency stop.
-<to be read again> 
-                   \edef 
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count411
+\scratchdimen=\dimen356
+\scratchbox=\box132
+\nofMPsegments=\count412
+\nofMParguments=\count413
+\everyMPshowfont=\toks67
+\MPscratchCnt=\count414
+\MPscratchDim=\dimen357
+\MPnumerator=\count415
+\makeMPintoPDFobject=\count416
+\everyMPtoPDFconversion=\toks68
+)
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-11.91173pt
+* \headheight=0.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen358
+\caption@adjustwidth@linewidth=\dimen359
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Command `\dddot' is already robust on input line 34.
+LaTeX Info: Command `\ddddot' is already robust on input line 34.
+\c@mv@tabular=\count417
+\c@mv@boldtabular=\count418
+\c@lstlisting=\count419
+
+
+! LaTeX Error: Command \BBAA undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
 l.34 \begin{document}
                      
-*** (job aborted, file error in nonstop mode)
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
- 
+
+! LaTeX Error: Command \BBAB undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \begin{document}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \BRetrievedFrom undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \begin{document}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \BRetrieved undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \begin{document}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\openout2 = `_internals/sampul.aux'.
+
+(_internals/sampul.tex
+<assets/pics/makara_kuning.png, id=166, 293.1753pt x 294.1389pt>
+File: assets/pics/makara_kuning.png Graphic file (type png)
+<use assets/pics/makara_kuning.png>
+Package pdftex.def Info: assets/pics/makara_kuning.png  used on input line 15.
+(pdftex.def)             Requested size: 71.13188pt x 71.36224pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 19.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 22.
+
+
+[1
+
+\openout4 = `thesis.ist'.
+
+
+{C:/Users/kimia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/kimi
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./asset
+s/pics/makara_kuning.png>])
+
+[0
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 57.
+
+\openout2 = `_internals/judul_dalam.aux'.
+
+(_internals/judul_dalam.tex
+File: assets/pics/makara_kuning.png Graphic file (type png)
+<use assets/pics/makara_kuning.png>
+Package pdftex.def Info: assets/pics/makara_kuning.png  used on input line 14.
+(pdftex.def)             Requested size: 71.13188pt x 71.36224pt.
+
+
+[1
+
+])
+
+[0
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 109.
+
+\openout2 = `src/00-frontMatter/pengesahanKP.aux'.
+
+(src/00-frontMatter/pengesahanKP.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
+ 15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
+ 15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
+ 15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
+e 15.
+
+(C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 12.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 15.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.0pt on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+
+Missing character: There is no ¹ in font zpzccmry!
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+
+[2
+
+
+])
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.109 }}
+         [2
+
+
+
+]
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 133.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 139.
+
+\openout2 = `src/00-frontMatter/abstrak.aux'.
+
+(src/00-frontMatter/abstrak.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--47
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 50.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 54.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 54.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 54.
+[3
+
+
+{C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}])
+\openout2 = `src/00-frontMatter/abstract.aux'.
+
+
+(src/00-frontMatter/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+
+[4
+
+
+
+
+])
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 149.
+
+(thesis.toc)
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
+
+
+
+[5
+
+
+
+]
+
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 150.
+
+(thesis.lof)
+\tf@lof=\write8
+\openout8 = `thesis.lof'.
+
+
+
+[7
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 151.
+
+(thesis.lot)
+\tf@lot=\write9
+\openout9 = `thesis.lot'.
+
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 180.
+
+
+
+[8
+
+] (thesis.lox)
+\tf@lox=\write10
+\openout10 = `thesis.lox'.
+
+
+
+[9
+
+]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.ix}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 ...agecount\clearpage\else\forceclearchapter
+                                                  \fi [9
+
+]
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 197.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 197.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 203.
+
+\openout2 = `src/01-body/bab1.aux'.
+
+(src/01-body/bab1.tex
+BAB 1.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 
+      [1
+
+
+]
+<assets/pics/struktur_org.png, id=347, 1978.39125pt x 1275.76625pt>
+File: assets/pics/struktur_org.png Graphic file (type png)
+<use assets/pics/struktur_org.png>
+Package pdftex.def Info: assets/pics/struktur_org.png  used on input line 67.
+(pdftex.def)             Requested size: 426.79135pt x 275.19933pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.4pt on input line 68.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 6.0pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+
+! Undefined control sequence.
+l.71 \FloatBarrier
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[2 <./assets/pics/struktur_org.png>])
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[3]
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 205.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 205.
+
+\openout2 = `src/01-body/bab2.aux'.
+
+(src/01-body/bab2.tex
+BAB 2.
+
+
+[4
+
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 49.
+ (C:\Users\kimia\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 49.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[5{C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.
+enc}]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.0pt on input line 76.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[6]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[7]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[8]
+<assets/pics/Slide1.PNG, id=410, 426.84468pt x 668.4975pt>
+File: assets/pics/Slide1.PNG Graphic file (type png)
+<use assets/pics/Slide1.PNG>
+Package pdftex.def Info: assets/pics/Slide1.PNG  used on input line 228.
+(pdftex.def)             Requested size: 426.79135pt x 668.45506pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[9]
+Overfull \vbox (16.12474pt too high) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[10 <./assets/pics/Slide1.PNG>]
+<assets/pics/Slide2.PNG, id=420, 426.84468pt x 334.24875pt>
+File: assets/pics/Slide2.PNG Graphic file (type png)
+<use assets/pics/Slide2.PNG>
+Package pdftex.def Info: assets/pics/Slide2.PNG  used on input line 235.
+(pdftex.def)             Requested size: 426.79135pt x 334.22752pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[11 <./assets/pics/Slide2.PNG>]
+<assets/pics/Slide3.PNG, id=428, 426.84468pt x 668.4975pt>
+File: assets/pics/Slide3.PNG Graphic file (type png)
+<use assets/pics/Slide3.PNG>
+Package pdftex.def Info: assets/pics/Slide3.PNG  used on input line 264.
+(pdftex.def)             Requested size: 426.79135pt x 668.45506pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[12]
+Overfull \vbox (16.12474pt too high) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[13 <./assets/pics/Slide3.PNG>]
+<assets/pics/Slide4.PNG, id=437, 426.84468pt x 334.24875pt>
+File: assets/pics/Slide4.PNG Graphic file (type png)
+<use assets/pics/Slide4.PNG>
+Package pdftex.def Info: assets/pics/Slide4.PNG  used on input line 271.
+(pdftex.def)             Requested size: 426.79135pt x 334.22752pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[14 <./assets/pics/Slide4.PNG>]
+Missing character: There is no ¹ in font zpzccmry!
+
+Underfull \hbox (badness 4872) in paragraph at lines 353--354
+[]\OT1/ntxtlf/m/n/12 Mengimplementasikan fung-sion-al-i-tas
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 354--355
+[]\OT1/ntxtlf/m/n/12 Membangun ha-la-man de-tail un-tuk
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[15]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[16]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[17]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[18])
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[19]
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 207.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 207.
+
+\openout2 = `src/01-body/bab3.aux'.
+
+(src/01-body/bab3.tex
+BAB 3.
+
+
+[20
+
+
+
+
+
+])
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[21]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 209.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 209.
+
+\openout2 = `_internals/pustaka.aux'.
+
+(_internals/pustaka.tex (thesis.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 1.
+
+Missing character: There is no â in font ntx-Regular-tlf-ot1!
+Missing character: There is no € in font ntx-Regular-tlf-ot1!
+Missing character: There is no ” in font ntx-Regular-tlf-ot1!
+
+Underfull \hbox (badness 1158) in paragraph at lines 48--52
+[]\OT1/ntxtlf/m/n/12 PT TASPEN (Persero).  Struk-tur or-ga-ni-sasi.  []$https :
+ / / taspen . co . id / tentang-[]taspen /
+ []
+
+))
+
+[23
+
+
+
+
+
+]
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 224.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 224.
+
+\c@pagetemp=\count420
+\openout2 = `_internals/markLampiran.aux'.
+
+(_internals/markLampiran.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 24.88pt on input line 11.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \end{titlepage}
+                     [1
+
+
+
+
+])
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 247.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 247.
+
+\openout2 = `src/99-backMatter/lampiran.aux'.
+
+(src/99-backMatter/lampiran.tex
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/kakp.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/kakp.pdf, id=501, 614.295pt x 794.97pt>
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf>
+Package pdftex.def Info: assets/pdfs/kakp.pdf  used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/kakp.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/kakp.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/kakp.pdf, id=503, page=1, 614.295pt x 794.97pt>
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[24
+
+
+
+
+]
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[25
+
+ <./assets/pdfs/kakp.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/kakp.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/kakp.pdf, id=542, page=2, 614.295pt x 794.97pt>
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[26
+
+ <./assets/pdfs/kakp.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/kakp.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/kakp.pdf, id=554, page=3, 614.295pt x 794.97pt>
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/kakp.pdf Graphic file (type pdf)
+<use assets/pdfs/kakp.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/kakp.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[27
+
+ <./assets/pdfs/kakp.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=567, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf>
+Package pdftex.def Info: assets/pdfs/log.pdf  used on input line 17.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=569, page=1, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[28]
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 1>
+Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[29
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=620, page=2, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/log.pdf , page2 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/log.pdf , page2 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 2>
+Package pdftex.def Info: assets/pdfs/log.pdf , page2 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[30
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=630, page=3, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/log.pdf , page3 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/log.pdf , page3 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 3>
+Package pdftex.def Info: assets/pdfs/log.pdf , page3 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[31
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=635, page=4, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 4>
+Package pdftex.def Info: assets/pdfs/log.pdf , page4 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 4>
+Package pdftex.def Info: assets/pdfs/log.pdf , page4 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 4>
+Package pdftex.def Info: assets/pdfs/log.pdf , page4 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[32
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=643, page=5, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 5>
+Package pdftex.def Info: assets/pdfs/log.pdf , page5 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 5>
+Package pdftex.def Info: assets/pdfs/log.pdf , page5 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 5>
+Package pdftex.def Info: assets/pdfs/log.pdf , page5 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[33
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=648, page=6, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 6>
+Package pdftex.def Info: assets/pdfs/log.pdf , page6 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 6>
+Package pdftex.def Info: assets/pdfs/log.pdf , page6 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 6>
+Package pdftex.def Info: assets/pdfs/log.pdf , page6 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[34
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=657, page=7, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 7>
+Package pdftex.def Info: assets/pdfs/log.pdf , page7 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 7>
+Package pdftex.def Info: assets/pdfs/log.pdf , page7 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 7>
+Package pdftex.def Info: assets/pdfs/log.pdf , page7 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[35
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=662, page=8, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 8>
+Package pdftex.def Info: assets/pdfs/log.pdf , page8 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 8>
+Package pdftex.def Info: assets/pdfs/log.pdf , page8 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 8>
+Package pdftex.def Info: assets/pdfs/log.pdf , page8 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[36
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=670, page=9, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 9>
+Package pdftex.def Info: assets/pdfs/log.pdf , page9 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 9>
+Package pdftex.def Info: assets/pdfs/log.pdf , page9 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 9>
+Package pdftex.def Info: assets/pdfs/log.pdf , page9 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[37
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=675, page=10, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 10>
+Package pdftex.def Info: assets/pdfs/log.pdf , page10 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 10>
+Package pdftex.def Info: assets/pdfs/log.pdf , page10 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 10>
+Package pdftex.def Info: assets/pdfs/log.pdf , page10 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[38
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=683, page=11, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 11>
+Package pdftex.def Info: assets/pdfs/log.pdf , page11 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 11>
+Package pdftex.def Info: assets/pdfs/log.pdf , page11 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 11>
+Package pdftex.def Info: assets/pdfs/log.pdf , page11 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[39
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=688, page=12, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 12>
+Package pdftex.def Info: assets/pdfs/log.pdf , page12 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 12>
+Package pdftex.def Info: assets/pdfs/log.pdf , page12 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 12>
+Package pdftex.def Info: assets/pdfs/log.pdf , page12 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[40
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=697, page=13, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 13>
+Package pdftex.def Info: assets/pdfs/log.pdf , page13 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 13>
+Package pdftex.def Info: assets/pdfs/log.pdf , page13 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 13>
+Package pdftex.def Info: assets/pdfs/log.pdf , page13 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[41
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=702, page=14, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 14>
+Package pdftex.def Info: assets/pdfs/log.pdf , page14 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 14>
+Package pdftex.def Info: assets/pdfs/log.pdf , page14 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 14>
+Package pdftex.def Info: assets/pdfs/log.pdf , page14 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[42
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=710, page=15, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 15>
+Package pdftex.def Info: assets/pdfs/log.pdf , page15 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 15>
+Package pdftex.def Info: assets/pdfs/log.pdf , page15 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 15>
+Package pdftex.def Info: assets/pdfs/log.pdf , page15 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[43
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=715, page=16, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 16>
+Package pdftex.def Info: assets/pdfs/log.pdf , page16 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 16>
+Package pdftex.def Info: assets/pdfs/log.pdf , page16 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 16>
+Package pdftex.def Info: assets/pdfs/log.pdf , page16 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[44
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=723, page=17, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 17>
+Package pdftex.def Info: assets/pdfs/log.pdf , page17 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 17>
+Package pdftex.def Info: assets/pdfs/log.pdf , page17 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 17>
+Package pdftex.def Info: assets/pdfs/log.pdf , page17 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[45
+
+ <./assets/pdfs/log.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdfs/log.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdfs/log.pdf, id=728, page=18, 614.295pt x 794.97pt>
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 18>
+Package pdftex.def Info: assets/pdfs/log.pdf , page18 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 18>
+Package pdftex.def Info: assets/pdfs/log.pdf , page18 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: assets/pdfs/log.pdf Graphic file (type pdf)
+<use assets/pdfs/log.pdf, page 18>
+Package pdftex.def Info: assets/pdfs/log.pdf , page18 used on input line 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[46
+
+ <./assets/pdfs/log.pdf>])
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+(thesis.aux (_internals/sampul.aux) (_internals/judul_dalam.aux)
+(src/00-frontMatter/pengesahanKP.aux) (src/00-frontMatter/abstrak.aux)
+(src/00-frontMatter/abstract.aux) (src/01-body/bab1.aux) (src/01-body/bab2.aux)
+(src/01-body/bab3.aux) (_internals/pustaka.aux) (_internals/markLampiran.aux)
+(src/99-backMatter/lampiran.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2020/03/25>
+ ***********
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 9F6E965BDCDB18AF9DA895CD1DF8AC56;7572.
+ ) 
 Here is how much of TeX's memory you used:
- 40889 strings out of 473899
- 772479 string characters out of 5726500
- 1318799 words of memory out of 5000000
- 63025 multiletter control sequences out of 15000+600000
- 559602 words of font info for 39 fonts, out of 8000000 for 9000
+ 42099 strings out of 473899
+ 803680 string characters out of 5726500
+ 1333112 words of memory out of 5000000
+ 63915 multiletter control sequences out of 15000+600000
+ 617702 words of font info for 161 fonts, out of 8000000 for 9000
  1283 hyphenation exceptions out of 8191
- 114i,0n,115p,18442b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
-c:/01_UI FASILKOM/Semester 7/KP/draft/latex-skripsi-ui-2017-master/thesis.tex:34:  ==> Fatal error occurred, no output PDF file produced!
+ 114i,17n,115p,18375b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtm
+r.pfb><C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
+vb8a.pfb><C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx
+/ztmb.pfb><C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/public/newt
+x/ztmbi.pfb><C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/public/ne
+wtx/ztmr.pfb><C:/Users/kimia/AppData/Local/Programs/MiKTeX/fonts/type1/public/n
+ewtx/ztmri.pfb>
+Output written on thesis.pdf (61 pages, 1793715 bytes).
+PDF statistics:
+ 797 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 488 words of extra memory for PDF output out of 10000 (max. 10000000)
+

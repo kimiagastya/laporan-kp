@@ -142,11 +142,9 @@
 \strictpagecheck
 \usepackage{everyshi}
 
-% Format sitasi, uncomment salah satu jenis untuk menggunakan jenis tersebut.
-% Anda bisa menambahkan dukungan untuk format sitasi lainnya jika diperlukan.
-%% APA (sitasi dalam dan luar paragraf).
-\usepackage[natbibapa]{apacite}
-\bibliographystyle{apalike}
+% Format sitasi APA author-year
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
 %% IEEE
 % \usepackage{natbib}
 % \bibliographystyle{IEEEtran}
@@ -510,12 +508,13 @@
 \newcommand{\clearchapter}{
 	\setfirstheaderfooter
 	\clearpage
-	\ifodd\thechapterpagecount
-		\null
-		\thispagestyle{empty}
-		\addtocounter{page}{-1}
-		\newpage
-	\fi
+	% Logika halaman ganjil/genap dinonaktifkan untuk mode oneside
+	% \ifodd\thechapterpagecount
+	% 	\null
+	% 	\thispagestyle{empty}
+	% 	\addtocounter{page}{-1}
+	% 	\newpage
+	% \fi
 	\setoddevenheader
 	\setoddevenfooter
 }

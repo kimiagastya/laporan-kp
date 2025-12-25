@@ -1,40 +1,53 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Asthana, 2021]{postman:blog}
-Asthana, A. (2021).
+\bibitem[Asthana(2021)]{postman:blog}
+Abhinav Asthana.
 \newblock How we built postman—the product and the company.
 \newblock
-  \url{https://blog.postman.com/how-we-built-postman-product-and-company/}.
+  \url{https://blog.postman.com/how-we-built-postman-product-and-company/},
+  April 2021.
 \newblock Diakses pada 31 Juli 2025.
 
-\bibitem[Chacon and Straub, 2025]{git:progit}
-Chacon, S. and Straub, B. (2025).
-\newblock {\em Pro Git}.
-\newblock Apress, 2nd edition.
+\bibitem[Chacon and Straub(2025)]{git:progit}
+Scott Chacon and Ben Straub.
+\newblock \emph{Pro Git}.
+\newblock Apress, 2nd edition, 2025.
 
-\bibitem[Gonzalez, 2017]{figma:wired}
-Gonzalez, R. (2017).
+\bibitem[Gonzalez(2017)]{figma:wired}
+Robbie Gonzalez.
 \newblock Figma wants designers to collaborate google-docs style.
-\newblock \url{https://www.wired.com/story/figma-updates/}.
+\newblock \url{https://www.wired.com/story/figma-updates/}, Juli 2017.
 \newblock Diakses pada 31 Juli 2025.
 
-\bibitem[{Google}, 2025a]{android:studio}
-{Google} (2025a).
+\bibitem[{Google}(2025{\natexlab{a}})]{android:studio}
+{Google}.
 \newblock Download android studio \& app tools.
-\newblock \url{https://developer.android.com/studio}.
+\newblock \url{https://developer.android.com/studio}, 2025{\natexlab{a}}.
 \newblock Diakses pada 31 Juli 2025.
 
-\bibitem[{Google}, 2025b]{flutter:docs}
-{Google} (2025b).
+\bibitem[{Google}(2025{\natexlab{b}})]{flutter:docs}
+{Google}.
 \newblock Flutter: Build apps for any screen.
-\newblock \url{https://flutter.dev/}.
+\newblock \url{https://flutter.dev/}, 2025{\natexlab{b}}.
 \newblock Diakses pada 31 Juli 2025.
 
-\bibitem[{Microsoft Azure}, 2025]{azure:mobile}
-{Microsoft Azure} (2025).
+\bibitem[{Microsoft Azure}(2025)]{azure:mobile}
+{Microsoft Azure}.
 \newblock What is mobile app development?
 \newblock
-  \url{https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-mobile-app-development}.
+  \url{https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-mobile-app-development},
+  2025.
 \newblock Diakses pada 31 Juli 2025.
+
+\bibitem[{PT TASPEN (Persero)}(n.d.)]{strukturTaspen}
+{PT TASPEN (Persero)}.
+\newblock Struktur organisasi.
+\newblock \url{https://taspen.co.id/tentang-taspen/struktur-organisasi}, n.d.
+\newblock Diakses pada 20 Desember 2025.
 
 \end{thebibliography}

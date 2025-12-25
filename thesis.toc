@@ -1,0 +1,48 @@
+\addvspace {-1em}
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Halaman Judul}}{i}{section*.2}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Lembar Persetujuan Dosen Kerja Praktik}}{ii}{section*.4}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Abstrak}}{iii}{section*.5}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Daftar Isi}}{v}{section*.6}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Daftar Gambar}}{vii}{section*.7}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {Daftar Tabel}}{viii}{section*.8}%
+\addvspace {-1em}
+\contentsline {chapter}{\uppercase {\uppercase {Daftar Lampiran}}}{viii}{section*.9}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Proses Pencarian Kerja Praktik}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Tempat Kerja Praktik}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Profil Tempat Kerja Praktik}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi}{3}{subsection.1.2.2}%
+\contentsline {chapter}{\numberline {2}ISI}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Latar Belakang Pekerjaan}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Deskripsi Pekerjaan}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Tinjauan Pustaka}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}\textit {Mobile Application Development}}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Flutter}{6}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Figma}{6}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Git}{6}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Postman}{7}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Android Studio}{7}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}Metodologi}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Teknologi}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Hasil Pekerjaan}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Aspek Non Teknis}{14}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Analisis Pelaksanaan Kerja Praktik}{15}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Ulasan Kesesuaian dan Perbedaan dengan KAKP}{16}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Ulasan Tentang Kendala dan Cara Menanganinya}{17}{subsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.2.1}Ketiadaan dokumentasi API yang lengkap}{17}{subsubsection.2.8.2.1}%
+\contentsline {subsubsection}{\numberline {2.8.2.2}Kesulitan Dalam Memahami \textit {User Flow} dari Fitur}{17}{subsubsection.2.8.2.2}%
+\contentsline {subsection}{\numberline {2.8.3}Penilaian Individu Terhadap Tempat KP}{18}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}Relevansi dengan Perkuliahan di Fasilkom UI}{19}{subsection.2.8.4}%
+\contentsline {chapter}{\numberline {3}PENUTUP}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Kesimpulan}{20}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Saran}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Untuk Tempat Kerja Praktik}{21}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Untuk Pelaksana Kerja Praktik Berikutnya}{21}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Untuk Fasilkom UI}{21}{subsection.3.2.3}%
+\contentsline {chapter}{\uppercase {Daftar Referensi}}{23}{section*.16}%
