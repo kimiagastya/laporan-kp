@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.8)  8 JAN 2026 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.8)  9 JAN 2026 00:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2161,7 +2161,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
 [8]
-<assets/pics/Slide1.PNG, id=410, 426.84468pt x 668.4975pt>
+<assets/pics/Slide1.PNG, id=413, 426.84468pt x 668.4975pt>
 File: assets/pics/Slide1.PNG Graphic file (type png)
 <use assets/pics/Slide1.PNG>
 Package pdftex.def Info: assets/pics/Slide1.PNG  used on input line 228.
@@ -2186,7 +2186,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
 [10 <./assets/pics/Slide1.PNG>]
-<assets/pics/Slide2.PNG, id=420, 426.84468pt x 334.24875pt>
+<assets/pics/Slide2.PNG, id=423, 426.84468pt x 334.24875pt>
 File: assets/pics/Slide2.PNG Graphic file (type png)
 <use assets/pics/Slide2.PNG>
 Package pdftex.def Info: assets/pics/Slide2.PNG  used on input line 235.
@@ -2200,7 +2200,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
 [11 <./assets/pics/Slide2.PNG>]
-<assets/pics/Slide3.PNG, id=428, 426.84468pt x 668.4975pt>
+<assets/pics/Slide3.PNG, id=433, 426.84468pt x 668.4975pt>
 File: assets/pics/Slide3.PNG Graphic file (type png)
 <use assets/pics/Slide3.PNG>
 Package pdftex.def Info: assets/pics/Slide3.PNG  used on input line 264.
@@ -2225,7 +2225,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
 [13 <./assets/pics/Slide3.PNG>]
-<assets/pics/Slide4.PNG, id=437, 426.84468pt x 334.24875pt>
+<assets/pics/Slide4.PNG, id=442, 426.84468pt x 334.24875pt>
 File: assets/pics/Slide4.PNG Graphic file (type png)
 <use assets/pics/Slide4.PNG>
 Package pdftex.def Info: assets/pics/Slide4.PNG  used on input line 271.
@@ -2324,18 +2324,9 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 1.
 
-
-Underfull \hbox (badness 2884) in paragraph at lines 4--8
-[]\OT1/ntxtlf/m/n/12 Asthana, A. (2021).  How we built postman---the prod-uct a
-nd the com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
-\OT1/ntxtlf/m/n/12 pany.  Di-ak-ses pada 31 Juli 2025, dari []$https : / / blog
- . postman . com /
- []
-
+Missing character: There is no â in font ntx-Regular-tlf-ot1!
+Missing character: There is no € in font ntx-Regular-tlf-ot1!
+Missing character: There is no ” in font ntx-Regular-tlf-ot1!
 )) [23
 
 
@@ -2367,7 +2358,7 @@ l.12 \end{titlepage}
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/kakp.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/kakp.pdf, id=499, 614.295pt x 794.97pt>
+<assets/pdfs/kakp.pdf, id=507, 614.295pt x 794.97pt>
 File: assets/pdfs/kakp.pdf Graphic file (type pdf)
 <use assets/pdfs/kakp.pdf>
 Package pdftex.def Info: assets/pdfs/kakp.pdf  used on input line 8.
@@ -2380,7 +2371,7 @@ F version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/kakp.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/kakp.pdf, id=501, page=1, 614.295pt x 794.97pt>
+<assets/pdfs/kakp.pdf, id=509, page=1, 614.295pt x 794.97pt>
 File: assets/pdfs/kakp.pdf Graphic file (type pdf)
 <use assets/pdfs/kakp.pdf, page 1>
 Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
@@ -2420,7 +2411,7 @@ Package pdftex.def Info: assets/pdfs/kakp.pdf , page1 used on input line 8.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/kakp.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/kakp.pdf, id=540, page=2, 614.295pt x 794.97pt>
+<assets/pdfs/kakp.pdf, id=548, page=2, 614.295pt x 794.97pt>
 File: assets/pdfs/kakp.pdf Graphic file (type pdf)
 <use assets/pdfs/kakp.pdf, page 2>
 Package pdftex.def Info: assets/pdfs/kakp.pdf , page2 used on input line 8.
@@ -2439,7 +2430,7 @@ Package pdftex.def Info: assets/pdfs/kakp.pdf , page2 used on input line 8.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/kakp.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/kakp.pdf, id=552, page=3, 614.295pt x 794.97pt>
+<assets/pdfs/kakp.pdf, id=560, page=3, 614.295pt x 794.97pt>
 File: assets/pdfs/kakp.pdf Graphic file (type pdf)
 <use assets/pdfs/kakp.pdf, page 3>
 Package pdftex.def Info: assets/pdfs/kakp.pdf , page3 used on input line 8.
@@ -2458,7 +2449,7 @@ Package pdftex.def Info: assets/pdfs/kakp.pdf , page3 used on input line 8.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=565, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=573, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf>
 Package pdftex.def Info: assets/pdfs/log.pdf  used on input line 17.
@@ -2471,7 +2462,7 @@ pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=567, page=1, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=575, page=1, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 1>
 Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
@@ -2506,7 +2497,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page1 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=618, page=2, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=626, page=2, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 2>
 Package pdftex.def Info: assets/pdfs/log.pdf , page2 used on input line 17.
@@ -2525,7 +2516,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page2 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=628, page=3, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=636, page=3, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 3>
 Package pdftex.def Info: assets/pdfs/log.pdf , page3 used on input line 17.
@@ -2544,7 +2535,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page3 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=633, page=4, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=641, page=4, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 4>
 Package pdftex.def Info: assets/pdfs/log.pdf , page4 used on input line 17.
@@ -2563,7 +2554,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page4 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=641, page=5, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=649, page=5, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 5>
 Package pdftex.def Info: assets/pdfs/log.pdf , page5 used on input line 17.
@@ -2582,7 +2573,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page5 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=646, page=6, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=654, page=6, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 6>
 Package pdftex.def Info: assets/pdfs/log.pdf , page6 used on input line 17.
@@ -2601,7 +2592,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page6 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=655, page=7, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=663, page=7, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 7>
 Package pdftex.def Info: assets/pdfs/log.pdf , page7 used on input line 17.
@@ -2620,7 +2611,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page7 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=660, page=8, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=668, page=8, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 8>
 Package pdftex.def Info: assets/pdfs/log.pdf , page8 used on input line 17.
@@ -2639,7 +2630,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page8 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=668, page=9, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=676, page=9, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 9>
 Package pdftex.def Info: assets/pdfs/log.pdf , page9 used on input line 17.
@@ -2658,7 +2649,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page9 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=673, page=10, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=681, page=10, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 10>
 Package pdftex.def Info: assets/pdfs/log.pdf , page10 used on input line 17.
@@ -2677,7 +2668,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page10 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=681, page=11, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=689, page=11, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 11>
 Package pdftex.def Info: assets/pdfs/log.pdf , page11 used on input line 17.
@@ -2696,7 +2687,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page11 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=686, page=12, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=694, page=12, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 12>
 Package pdftex.def Info: assets/pdfs/log.pdf , page12 used on input line 17.
@@ -2715,7 +2706,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page12 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=695, page=13, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=703, page=13, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 13>
 Package pdftex.def Info: assets/pdfs/log.pdf , page13 used on input line 17.
@@ -2734,7 +2725,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page13 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=700, page=14, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=708, page=14, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 14>
 Package pdftex.def Info: assets/pdfs/log.pdf , page14 used on input line 17.
@@ -2753,7 +2744,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page14 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=708, page=15, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=716, page=15, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 15>
 Package pdftex.def Info: assets/pdfs/log.pdf , page15 used on input line 17.
@@ -2772,7 +2763,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page15 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=713, page=16, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=721, page=16, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 16>
 Package pdftex.def Info: assets/pdfs/log.pdf , page16 used on input line 17.
@@ -2791,7 +2782,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page16 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=721, page=17, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=729, page=17, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 17>
 Package pdftex.def Info: assets/pdfs/log.pdf , page17 used on input line 17.
@@ -2810,7 +2801,7 @@ Package pdftex.def Info: assets/pdfs/log.pdf , page17 used on input line 17.
 
 pdfTeX warning: pdflatex (file ./assets/pdfs/log.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<assets/pdfs/log.pdf, id=726, page=18, 614.295pt x 794.97pt>
+<assets/pdfs/log.pdf, id=734, page=18, 614.295pt x 794.97pt>
 File: assets/pdfs/log.pdf Graphic file (type pdf)
 <use assets/pdfs/log.pdf, page 18>
 Package pdftex.def Info: assets/pdfs/log.pdf , page18 used on input line 17.
@@ -2846,7 +2837,7 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Here is how much of TeX's memory you used:
  42056 strings out of 467871
  799641 string characters out of 5418861
- 1351045 words of memory out of 5000000
+ 1351043 words of memory out of 5000000
  69878 multiletter control sequences out of 15000+600000
  687354 words of font info for 165 fonts, out of 8000000 for 9000
  1283 hyphenation exceptions out of 8191
@@ -2858,9 +2849,9 @@ mb.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/zt
 mbi.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/z
 tmr.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/z
 tmri.pfb>
-Output written on thesis.pdf (61 pages, 1793602 bytes).
+Output written on thesis.pdf (61 pages, 1795147 bytes).
 PDF statistics:
- 795 PDF objects out of 1000 (max. 8388607)
+ 803 PDF objects out of 1000 (max. 8388607)
  128 named destinations out of 1000 (max. 500000)
  488 words of extra memory for PDF output out of 10000 (max. 10000000)
 

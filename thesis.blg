@@ -29,16 +29,16 @@ A level-1 auxiliary file: src/99-backMatter/lampiran.aux
 Database file #1: config/references.bib
 You've used 7 entries,
             1935 wiz_defined-function locations,
-            516 strings with 4972 characters,
-and the built_in function-call counts, 1815 in all, are:
-= -- 188
+            517 strings with 4835 characters,
+and the built_in function-call counts, 1865 in all, are:
+= -- 199
 > -- 55
 < -- 7
 + -- 17
 - -- 16
-* -- 116
-:= -- 360
-add.period$ -- 21
+* -- 115
+:= -- 371
+add.period$ -- 27
 call.type$ -- 7
 change.case$ -- 43
 chr.to.int$ -- 6
@@ -46,13 +46,13 @@ cite$ -- 7
 duplicate$ -- 74
 empty$ -- 114
 format.name$ -- 25
-if$ -- 336
+if$ -- 347
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 2
-newline$ -- 38
+newline$ -- 44
 num.names$ -- 21
-pop$ -- 25
+pop$ -- 20
 preamble$ -- 1
 purify$ -- 43
 quote$ -- 0
@@ -67,4 +67,4 @@ type$ -- 40
 warning$ -- 0
 while$ -- 14
 width$ -- 0
-write$ -- 88
+write$ -- 99
