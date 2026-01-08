@@ -130,6 +130,9 @@
 % Digunakan untuk membuat objek yang menimpa teks di atas.
 \usepackage{float}
 
+% Digunakan untuk mencegah float melewati batas section/subsection
+\usepackage{placeins}
+
 % Digunakan untuk penggunaan kolom (terutama pada bagian tanda tangan halaman persetujuan).
 \usepackage{multicol}
 
@@ -144,7 +147,7 @@
 
 % Format sitasi APA author-year
 \usepackage[round]{natbib}
-\bibliographystyle{plainnat}
+\bibliographystyle{apalike}
 %% IEEE
 % \usepackage{natbib}
 % \bibliographystyle{IEEEtran}
@@ -274,47 +277,37 @@
 }
 
 \fancypagestyle{standard}{
-	\fancyhead[L]{}
-	\fancyhead[C]{}
-	\fancyhead[R]{}
 	\renewcommand{\headrulewidth}{0.0pt}
-	\fancyfoot[C]{}
-	\fancyfoot[LE,RO]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\fancyfoot[LO,RE]{}
 	\renewcommand{\footrulewidth}{0.0pt}
+	\fancyhf{}
+	% Header dan footer akan diatur dinamis oleh \setoddevenheader dan \setoddevenfooter
 }
 
 \fancypagestyle{abs}{
-	\fancyhead[L]{}
-	\fancyhead[C]{}
-	\fancyhead[R]{}
+	\fancyhf{}
 	\renewcommand{\headrulewidth}{0.0pt}
-	\fancyfoot[C]{\thepage}
-	\fancyfoot[LE,RO]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\fancyfoot[LO,RE]{}
 	\renewcommand{\footrulewidth}{0.0pt}
+	\fancyfoot[C]{\thepage}
+	\fancyfoot[L]{\ifodd\value{page}\else\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
+	\fancyfoot[R]{\ifodd\value{page}\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
 }
 
 \fancypagestyle{first-pages}{
-	\fancyhead[L]{}
-	\fancyhead[C]{}
-	\fancyhead[R]{}
+	\fancyhf{}
 	\renewcommand{\headrulewidth}{0.0pt}
-	\fancyfoot[C]{\thepage}
-	\fancyfoot[LE,RO]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\fancyfoot[LO,RE]{}
 	\renewcommand{\footrulewidth}{0.0pt}
+	\fancyfoot[C]{\thepage}
+	\fancyfoot[L]{\ifodd\value{page}\else\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
+	\fancyfoot[R]{\ifodd\value{page}\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
 }
 
 \fancypagestyle{last}{
-	\fancyhead[L]{}
-	\fancyhead[C]{}
-	\fancyhead[R]{}
+	\fancyhf{}
 	\renewcommand{\headrulewidth}{0.0pt}
-	\fancyfoot[C]{\thepage}
-	\fancyfoot[LE,RO]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\fancyfoot[LO,RE]{}
 	\renewcommand{\footrulewidth}{0.0pt}
+	\fancyfoot[C]{\thepage}
+	\fancyfoot[L]{\ifodd\value{page}\else\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
+	\fancyfoot[R]{\ifodd\value{page}\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
 }
 
 % Tambah chapter page counter
@@ -407,10 +400,10 @@
 % selain APA)
 \AtBeginDocument{
 	\renewcommand{\refname}{\bibname}
-	\renewcommand{\BBAA}{\&}
-	\renewcommand{\BBAB}{dan}
-	\renewcommand{\BRetrievedFrom}{Diakses dari }
-	\renewcommand{\BRetrieved}[1]{Diakses pada tanggal {#1}, dari\ }
+	\providecommand{\BBAA}{\&}
+	\providecommand{\BBAB}{dan}
+	\providecommand{\BRetrievedFrom}{Diakses dari }
+	\providecommand{\BRetrieved}[1]{Diakses pada tanggal {#1}, dari\ }
 }
 
 %-----------------------------------------------------------------------------%
@@ -533,21 +526,16 @@
 	\fancyfoot[C]{\thepage}
 	\fancyfoot[R]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
 }
+% Command untuk header/footer alternating (kanan pada ganjil, kiri pada genap)
 \newcommand{\setoddevenheader}{
 	\fancyhead{}
-	\ifodd\thepage
-		\fancyhead[RO,LE]{\thepage}
-	\else
-		\fancyhead[LO,RE]{\thepage}
-	\fi
+	\fancyhead[L]{\ifodd\value{page}\else\thepage\fi}
+	\fancyhead[R]{\ifodd\value{page}\thepage\fi}
 }
 \newcommand{\setoddevenfooter}{
 	\fancyfoot{}
-	\ifodd\thepage
-		\fancyfoot[RO,LE]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\else
-		\fancyfoot[LO,RE]{\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}}
-	\fi
+	\fancyfoot[L]{\ifodd\value{page}\else\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
+	\fancyfoot[R]{\ifodd\value{page}\footnotesize \fontfamily{phv} \selectfont \bo{Universitas Indonesia}\fi}
 }
 
 % Untuk membuat halaman kosong

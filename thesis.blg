@@ -1,8 +1,8 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
-Reallocating 'name_of_file' (item size: 1) to 9 items.
-The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: _internals/sampul.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
@@ -28,43 +28,43 @@ Reallocating 'name_of_file' (item size: 1) to 31 items.
 A level-1 auxiliary file: src/99-backMatter/lampiran.aux
 Database file #1: config/references.bib
 You've used 7 entries,
-            2773 wiz_defined-function locations,
-            639 strings with 5999 characters,
-and the built_in function-call counts, 2224 in all, are:
-= -- 198
-> -- 81
+            1935 wiz_defined-function locations,
+            516 strings with 4972 characters,
+and the built_in function-call counts, 1815 in all, are:
+= -- 188
+> -- 55
 < -- 7
-+ -- 32
-- -- 24
-* -- 113
-:= -- 350
-add.period$ -- 27
++ -- 17
+- -- 16
+* -- 116
+:= -- 360
+add.period$ -- 21
 call.type$ -- 7
-change.case$ -- 29
+change.case$ -- 43
 chr.to.int$ -- 6
-cite$ -- 14
-duplicate$ -- 110
-empty$ -- 225
-format.name$ -- 33
-if$ -- 474
+cite$ -- 7
+duplicate$ -- 74
+empty$ -- 114
+format.name$ -- 25
+if$ -- 336
 int.to.chr$ -- 2
-int.to.str$ -- 1
+int.to.str$ -- 0
 missing$ -- 2
-newline$ -- 49
-num.names$ -- 28
-pop$ -- 84
+newline$ -- 38
+num.names$ -- 21
+pop$ -- 25
 preamble$ -- 1
-purify$ -- 22
+purify$ -- 43
 quote$ -- 0
-skip$ -- 83
+skip$ -- 64
 stack$ -- 0
-substring$ -- 14
-swap$ -- 11
+substring$ -- 84
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 40
 warning$ -- 0
-while$ -- 21
+while$ -- 14
 width$ -- 0
-write$ -- 104
+write$ -- 88
